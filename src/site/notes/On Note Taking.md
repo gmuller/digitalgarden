@@ -1,12 +1,9 @@
 ---
 {"dg-publish":true,"permalink":"/on-note-taking/"}
 ---
-Status:
-Type: #structure
-Tags: 
-
 # On Note Taking; Its Methods and Adherents
-This is a note about note taking. Its not lost on me how ridiculous that is, but it is still so. Think about Fleeting notes, fleeting thoughts, and the value of capturing them. Think about concepts like Collector's Fallacy and what it means to forget a note as not valuable, just as many thoughts have no value. 
+
+This is a note about note taking. Its not lost on me how ridiculous that is, but it is still so. Think about Fleeting notes, fleeting thoughts, and the value of capturing them. Think about concepts like Collector's Fallacy and what it means to forget a note as not valuable, just as many thoughts have no value.
 
 This is another long form piece that I need to flesh out
 
