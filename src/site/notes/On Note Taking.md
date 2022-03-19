@@ -7,6 +7,10 @@ This is a note about note taking. Its not lost on me how ridiculous that is, but
 
 This is another long form piece that I need to flesh out
 
+> [!INFO] 
+> Here's a callout block. 
+> It supports **markdown** and [[Internal link|wikilinks]].
+
 ## Possible Sources
 - [Note-writing practices are generally ineffective](https://notes.andymatuschak.org/z8V2q398qu89vdJ73N2BEYCgevMqux3yxQUAC)
 - [Note-writing practices provide weak feedback](https://notes.andymatuschak.org/z66PNF1Wt4AZ4j7TVEenkvPZgvDcHPuSdJC2r)
