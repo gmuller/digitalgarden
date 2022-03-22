@@ -15,7 +15,6 @@ What happens when I push an image
 
 <div class="transclusion internal-embed is-loaded">
 
-# Run Easy or Run Hard!
 
 
 You're two steps into your biggest race of the year when a booming voice resounds, "This is the last run of your life. Make it count!"
