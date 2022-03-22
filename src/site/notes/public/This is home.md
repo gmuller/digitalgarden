@@ -14,14 +14,17 @@ What happens when I push an image
 
 ## Run Easy or Run Hard
 
-
 <div class="transclusion internal-embed is-loaded">
 
-# Run Easy or Run Hard
+
 
 You're two steps into your biggest race of the year when a booming voice resounds, "This is the last run of your life. Make it count!"
 
 Do you:
-A. ** Put the hammer down.** Tear ass through the course in search of one last shot at glory and your physical limits
+
+A. **Put the hammer down.** Tear ass through the course in search of one last shot at glory and your physical limits
+
 B. **Slow down to a comfortable, easy run.** Make it last, take in the sights, and chat up your fellow racers
+
 </div>
+
