@@ -1,6 +1,7 @@
 body {
+  background-color: white;
+  color: black;
   font-family: athelas, georgia, serif;
-  line-height: 1.5;
 
   img {
     max-width: 100%;
@@ -13,6 +14,20 @@ body {
 
   h1, h2, h3, h4, h5, h6 {
     font-family: --apple-system, BlinkMacSystemFont, avenir next, avenir, helvetica neue, helvetica, ubuntu, roboto, noto, segoe ui, arial, sans-serif;
+  }
+
+  h1 {
+    font-size: 5.0vmax;
+    color: #000000b3;
+  }
+
+  p, a {
+    font-size: 2.3vmax;
+  }
+
+  .content {
+    color: rgba(0, 0, 0, 0.9);
+    max-width: 800px;
   }
 
 }
