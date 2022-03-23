@@ -7,7 +7,7 @@ This is a note about note taking. Its not lost on me how ridiculous that is, but
 
 This is another long form piece that I need to flesh out
 
-> Here's a callout block. 
+> Here's a callout block.
 > It supports **markdown** and [[Internal link|wikilinks]].
 
 ## Possible Sources
