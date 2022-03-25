@@ -8,11 +8,13 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
     <title>{{ page.fileSlug }}</title>
     {%include "components/pageheader.njk"%}
   </head>
-  <body>
+  <body class="theme-{{meta.baseTheme}} markdown-preview-view">
     {%include "components/notegrowthhistory.njk"%}
 
     <div class="content">
-      <a href="/">Home</a>
+      {% if dgHomeLink !== false%}
+        <a href="/">🏡 Back Home</a>
+      {% endif %}
       {{ content | safe}}
     </div>
   </body>
