@@ -10,17 +10,16 @@ body {
 
   .content {
     font-size: clamp(20px, 10px + .8vw, 22px);
-    color: rgba(0, 0, 0, 0.9);
     width: 95vw;
     max-width: 800px;
-    //font-family: Athelas, georgia, serif;
-    h1, h2, h3, h4, h5, h6 {
-      //font-family: 'Futura LT', --apple-system, BlinkMacSystemFont, avenir next, avenir, helvetica neue, helvetica, ubuntu, roboto, noto, segoe ui, arial, sans-serif;
-      font-weight: normal;
+    font-family: --apple-system, BlinkMacSystemFont, avenir next, avenir, helvetica neue, helvetica, ubuntu, roboto, noto, segoe ui, arial, sans-serif;
+
+    h1, .title a {
+      color: rgba(0,0,0,.7);
     }
 
-    h1 {
-      color: rgba(0,0,0,.7);
+    .title {
+      text-align: center;
     }
   }
 }
