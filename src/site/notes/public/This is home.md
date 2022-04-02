@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/this-is-home/","tags":["notes","gardenEntry"]}
+{"dg-publish":true,"permalink":"/public/this-is-home/","tags":["versionednote","gardenEntry"]}
 ---
 
 What happens when I push an image
