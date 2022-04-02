@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"on-notes","permalink":"/on-notes/"}
+{"dg-publish":true,"permalink":"/on-note-taking/"}
 ---
 # On Note Taking; Its Methods and Adherents
 
