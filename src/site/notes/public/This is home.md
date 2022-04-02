@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/public/this-is-home/","tags":"gardenEntry"}
+{"dg-publish":true,"permalink":"/public/this-is-home/","tags":["notes","gardenEntry"]}
 ---
-# Grant Muller
 
 What happens when I push an image
 
@@ -12,10 +11,15 @@ What happens when I push an image
 
 [[On Note Taking|On Note Taking]]
 
-## Run Easy or Run Hard
+# Run Easy or Run Hard
 
-<div class="transclusion internal-embed is-loaded">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
+<div class="markdown-embed-title">
+
+
+
+</div>
 
 
 You're two steps into your biggest race of the year when a booming voice resounds, "This is the last run of your life. Make it count!"
@@ -26,5 +30,5 @@ A. **Put the hammer down.** Tear ass through the course in search of one last sh
 
 B. **Slow down to a comfortable, easy run.** Make it last, take in the sights, and chat up your fellow racers
 
-</div>
+</div></div>
 
