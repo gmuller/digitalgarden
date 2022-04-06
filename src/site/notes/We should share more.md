@@ -21,4 +21,4 @@ I don't often share my experiences with others and when I do I tend towards unde
 
 You may think your stories only matter to a few people in the world. Share them anyway. Reach those people. Don't worry about boring people who aren't listening anyway. Don't worry about whether or not people will think you're bragging. That one person who needs to hear your thoughts to do something great deserves to hear it.
 
-*10-06-2021*
+<small>10-06-2021</small>
