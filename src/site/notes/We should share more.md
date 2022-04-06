@@ -20,4 +20,5 @@ He walked over and shook my hand and said thank you. I had talked to him for may
 I don't often share my experiences with others and when I do I tend towards understatement. It can feel like boasting to talk about difficult trials that you've overcome, or goals that you've reached. It can feel as though you're repeating an experience that thousands of other people have already had. It can seem as though you're boring people. Those are all feelings you have to overcome so that we can share more. As Pindar said, "unsung, the noblest deed will die."
 
 You may think your stories only matter to a few people in the world. Share them anyway. Reach those people. Don't worry about boring people who aren't listening anyway. Don't worry about whether or not people will think you're bragging. That one person who needs to hear your thoughts to do something great deserves to hear it.
+
 <span class="date">10-06-2021</span>
