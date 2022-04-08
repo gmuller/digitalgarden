@@ -1,7 +1,6 @@
 ---
 {"dg-publish":true,"permalink":"/0-inbox/high-lonesome-100-2017-race-report/"}
 ---
-![High Lonesome][1]
 
 We staggered up the last few steps in the dark to the top of Monarch on the Continental Divide trail. A relentless wind slapped me in the face, and kept on slapping. A chill burrowed into me despite the wool shirt, rain jacket, gloves and buff. I couldn't see more than three feet in front of me; it wasn't fog, we were standing in a cloud. I turned back to Aaron, now nothing more than a diffuse headlamp glow and a voice in the dark.
 
