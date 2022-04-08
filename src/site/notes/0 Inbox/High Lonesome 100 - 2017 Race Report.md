@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-inbox/high-lonesome-100-2017-race-report/"}
+{"dg-publish":true,"dg-permalink":"high-lonesome-2017","permalink":"/high-lonesome-2017/"}
 ---
 # High Lonesome 100 - 2017 Race Report
 
