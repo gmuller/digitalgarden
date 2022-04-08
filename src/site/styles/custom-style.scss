@@ -1,10 +1,7 @@
+@import url('http://fonts.cdnfonts.com/css/clarika-geometric');
+@import url('http://fonts.cdnfonts.com/css/minion-pro');
+
 body {
-  @font-face { 
-    font-family: body; 
-    src: url("./fonts/BananaGrotesk-Regular.woff") format("woff"), url("./fonts/BananaGrotesk-Regular.eot?#iefix") format("embedded-opentype"), url("./fonts/BananaGrotesk-Regular.woff2") format("woff2"); 
-    font-style: normal; 
-    font-weight: 400; 
-    font-stretch: normal; }
   img {
     max-width: 100%;
     height: auto;
@@ -15,13 +12,17 @@ body {
   }
 
   .content {
-    font-size: clamp(18px, 8px + .8vw, 20px);
+    font-size: clamp(20px, 8px + .8vw, 22px);
     width: 95vw;
     max-width: 800px;
-    font-family: --apple-system, BlinkMacSystemFont, avenir next, avenir, helvetica neue, helvetica, ubuntu, roboto, noto, segoe ui, arial, sans-serif;
+    font-family: 'Clarika Grotesque', --apple-system, BlinkMacSystemFont, avenir next, avenir, helvetica neue, helvetica, ubuntu, roboto, noto, segoe ui, arial, sans-serif;
 
     h1, .title a {
       color: rgba(0,0,0,.7);
+    }
+
+    p {
+      //font-family: 'Minion Pro', sans-serif;
     }
 
     .nav {
@@ -34,7 +35,7 @@ body {
     }
 
     .links {
-      font-size: 1rem;
+      font-size: 1.1rem;
     }
 
     .date {
