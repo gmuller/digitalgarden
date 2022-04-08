@@ -2,6 +2,6 @@
 {"dg-publish":true,"permalink":"/web-index/","tags":"gardenEntry"}
 ---
 # [[Now]]
-# [[Essays|Essays]]
+# [[Writing|Writing]]
 # [[Projects]]
 # [[Music]]
