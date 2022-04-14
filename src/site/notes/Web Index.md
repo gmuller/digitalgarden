@@ -4,4 +4,4 @@
 # [[Now|now]]
 # [[Writing|writing]]
 # [[Projects|projects]]
-# [[Music|music]]
+# [[0 Inbox/Music|music]]
