@@ -2,6 +2,7 @@
 {"dg-publish":true,"dg-permalink":"high-lonesome-2017","permalink":"/high-lonesome-2017/"}
 ---
 # High Lonesome 100 - 2017 Race Report
+<small>August 2017</small>
 
 We staggered up the last few steps in the dark to the top of Monarch on the Continental Divide trail. A relentless wind slapped me in the face, and kept on slapping. A chill burrowed into me despite the wool shirt, rain jacket, gloves and buff. I couldn't see more than three feet in front of me; it wasn't fog, we were standing in a cloud. I turned back to Aaron, now nothing more than a diffuse headlamp glow and a voice in the dark.
 
@@ -172,5 +173,3 @@ But I swear I fell asleep with a smile on my face.
 Like never before the race was a team effort. Four runners from the flatlands of Georgia, their crew and pacers, and 100 mountain miles. The volunteers, aid station crews, the race director, the forest service, search and rescue, everyone who has to be involved to make these things work.
 
 I've never felt alone out there, on any race, but this one was special. Being out there with fellow runner Aaron, a 100 mile veteran made it seem easy. Being out there with our pacers Brooke and Wes, both 100 mile veterans made it seem easy. Being out there with my crew from Georgia made it seem easy. Most of all, being out there with my wife Cary, my constant supporter, crew, and now pacer made it seem easy. With all of that support, the mental part of the game takes care of itself. After that, its all physical, and that's the easy part.
-
-<span class="date">08-06-2017</span>
