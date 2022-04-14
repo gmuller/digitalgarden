@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-inbox/now/"}
+{"dg-publish":true,"dg-permalink":"now","permalink":"/now/"}
 ---
 # Now
 <small>Last Update: 4/13/22</small>
