@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-permalink":"music","permalink":"/music/"}
+{"date":"Wednesday, April 13th 2022, 9:48:14 pm","lastmod":"Wednesday, April 13th 2022, 9:49:30 pm","dg-publish":true,"dg-permalink":"music","permalink":"/music/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
+
 # Music
 ## With Letter Seventeen
 ### [Falcon Payments](https://letterseventeen.bandcamp.com/album/falcon-payments)
