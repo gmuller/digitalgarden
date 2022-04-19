@@ -1,12 +1,9 @@
 ---
-{"dg-publish":true,"date":"2022-04-05T22:27:10-04:00","lastmod":"2022-04-19T14:17:59-04:00","permalink":"/writing/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"date":"2022-04-05T22:27:10-04:00","lastmod":"2022-04-19T14:22:14-04:00","permalink":"/writing/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # Essays
 ## [[We should share more|We Should Share more]]
-
-You may think your stories only matter to a few people in the world. Share them anyway.
-
 ## [[Meaning In Repetition|Meaning In Repetition]]
 
 # Race Reports
