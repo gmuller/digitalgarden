@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"date":"Tuesday, April 5th 2022, 10:27:10 pm","lastmod":"Thursday, April 7th 2022, 10:50:39 pm","permalink":"/writing/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"date":"2022-04-05T22:27:10-04:00","lastmod":"2022-04-13T22:06:27-04:00","permalink":"/writing/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # Essays
