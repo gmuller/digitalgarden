@@ -1,5 +1,5 @@
 ---
-{"date":"Wednesday, April 13th 2022, 9:48:14 pm","lastmod":"Wednesday, April 13th 2022, 9:49:30 pm","dg-publish":true,"dg-permalink":"music","permalink":"/music/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-permalink":"music","date":"2022-04-13T21:48:14-04:00","lastmod":"2022-04-13T21:52:07-04:00","permalink":"/music/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # Music
