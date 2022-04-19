@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/we-should-share-more/"}
+{"title":"We Should Share More","tags":["writing/post"],"dg-publish":true,"date":"Saturday, April 2nd 2022, 12:07:09 pm","lastmod":"Wednesday, April 13th 2022, 10:07:51 pm","permalink":"/we-should-share-more/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
+
 # We Should Share More
 <small>October 2021</small>
 
@@ -16,7 +17,7 @@ Talk about marathons eventually leads to ultramarathons. This new runner mention
 
 "Wow, yeah. But your hair was longer." (I was sporting my lockdown hairdo back then)
 
-He walked over and shook my hand and said thank you. I had talked to him for maybe fifteen minutes about running. I had no idea he was even that interested, but that short interaction had inspired him to run his first marathon. I was more shocked than he was. He was already planning his next marathon. He goal was to run it faster.
+He walked over and shook my hand and said thank you. I had talked to him for maybe fifteen minutes about running. I had no idea he was even that interested, but that short interaction had inspired him to run his first marathon. I was more shocked than he was. He was already planning his next marathon. His goal was to run it faster.
 
 I don't often share my experiences with others and when I do I tend towards understatement. It can feel like boasting to talk about difficult trials that you've overcome, or goals that you've reached. It can feel as though you're repeating an experience that thousands of other people have already had. It can seem as though you're boring people. Those are all feelings you have to overcome so that we can share more. As Pindar said, "unsung, the noblest deed will die."
 
