@@ -1,10 +1,25 @@
-@import url('https://fonts.cdnfonts.com/css/clarika-geometric');
-@import url('https://fonts.cdnfonts.com/css/minion-pro');
+// @import url('https://fonts.cdnfonts.com/css/clarika-geometric');
+// @import url('http://fonts.cdnfonts.com/css/bebas-neue');
+// @import url('http://fonts.cdnfonts.com/css/futura-std-4');
+// @import url('http://fonts.cdnfonts.com/css/ibm-plex-serif-2');
 
 body {
   img {
     max-width: 100%;
     height: auto;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    //font-family: 'IBM Plex Serif', --apple-system, sans-serif;
+  }
+
+  .full-width {
+    width: 100vw;
+    position: relative;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
   }
 
   a {
@@ -15,18 +30,15 @@ body {
     font-size: clamp(20px, 8px + .8vw, 22px);
     width: 95vw;
     max-width: 800px;
-    font-family: 'Clarika Grotesque', --apple-system, BlinkMacSystemFont, avenir next, avenir, helvetica neue, helvetica, ubuntu, roboto, noto, segoe ui, arial, sans-serif;
+    //font-family: 'Futura Std', serif;
 
     h1, .title a {
       color: rgba(0,0,0,.7);
     }
 
-    p {
-      //font-family: 'Minion Pro', sans-serif;
-    }
-
     .nav {
       padding-top: .25rem;
+      //font-family: 'IBM Plex Serif', --apple-system, sans-serif;
     }
 
     .title {
