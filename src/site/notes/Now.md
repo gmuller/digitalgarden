@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-permalink":"now","permalink":"/now/"}
+{"date":"Wednesday, April 13th 2022, 9:31:28 pm","lastmod":"2022-04-19T10:51:54-04:00","dg-publish":true,"dg-permalink":"now","permalink":"/now/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
+
 # Now
-<small>Last Update: 4/13/22</small>
 
 Still raising two kids in the metro Atlanta area. Also this other stuff
 
@@ -10,15 +10,15 @@ Still raising two kids in the metro Atlanta area. Also this other stuff
 
 Running a lot. Big race calendar for 2022:
 
-- [[Cocodona 250]]
-- [[High Lonesome]]
-- [[UTMB]]
+- [[0 Inbox/Cocodona 250|Cocodona 250]]
+- [[High Lonesome|High Lonesome]]
+- [[UTMB|UTMB]]
 
 ## Music
 
-Playing my [[Red Peavey Radial Pro 1000|Red Peavey Radial Pro 1000]] kit when I get a chance, especially this February when Tim and I recorded [[Letter Seventeen]]'s latest album [Falcon Payments](https://letterseventeen.bandcamp.com/album/falcon-payments)
+Playing my [[Red Peavey Radial Pro 1000|Red Peavey Radial Pro 1000]] kit when I get a chance, especially this February when Tim and I recorded [[Letter Seventeen|Letter Seventeen]]'s latest album [Falcon Payments](https://letterseventeen.bandcamp.com/album/falcon-payments)
 
-Jamming out with a [[Polyend Tracker|Polyend Tracker]], [[norns]], and [[Novation Circuit Tracks|Novation Circuit Tracks]] when I get a few moments.
+Jamming out with a [[Polyend Tracker|Polyend Tracker]], [[norns|norns]], and [[Novation Circuit Tracks|Novation Circuit Tracks]] when I get a few moments.
 
 ## Work
 
