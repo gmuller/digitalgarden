@@ -1,24 +1,29 @@
 ---
-{"lastmod":"2022-04-19T10:56:08-04:00","dg-publish":true,"date":"2021-12-12T09:57:16-05:00","permalink":"/books/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"lastmod":"2022-04-19T14:26:51-04:00","dg-publish":true,"date":"2021-12-12T09:57:16-05:00","permalink":"/books/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
-# Reading
-- Team of Teams
-# Tools
+# Books
+## Currently Reading
+- [[The Master and Margerita|The Master and Margerita]]
+
+## Books I Have Read and Wrote Something About
+- [[Seven Languages in Seven Weeks|Seven Languages in Seven Weeks]]
+
+## Tools to Find New Books to Read
 * [A Book Like Foo](https://abooklikefoo.com)
 * [Reddit Reads](https://www.redditreads.com/r/all?year=2021)
 * [OpenLibrary](https://books-search.typesense.org)
 
-# Places to Find Books
+## Places to Find Books
 * [IndieBound.org](https://www.indiebound.org)
 * [Bookshop: Store Locator](https://bookshop.org/pages/store_locator)
 
-# Reviews and Recommendations
+## Reviews and Recommendations
 * [Italic Type](https://www.italictype.com/app/#/home)
 * [Readng](https://beta.readng.co/dashboard)
 * [Book Marks](https://bookmarks.reviews)
 
-# To Read
+## Still Left to Read
 - Confident Mind
 - The Fifth Discipline
 - Analogia
