@@ -1,5 +1,5 @@
 ---
-{"date":"01-28-2022 13:24","id":202201281324,"dg-publish":true,"publish":true,"lastmod":"Tuesday, March 22nd 2022, 9:29:36 pm","tags":["notes"],"permalink":"/on-note-taking/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"id":202201281324,"dg-publish":true,"publish":true,"lastmod":"2022-04-19T10:56:45-04:00","tags":["notes"],"date":"2022-01-28T13:24:20-05:00","permalink":"/on-note-taking/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # On Note Taking; Its Methods and Adherents
