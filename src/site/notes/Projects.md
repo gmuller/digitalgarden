@@ -1,5 +1,5 @@
 ---
-{"date":"Wednesday, April 13th 2022, 9:51:46 pm","lastmod":"Wednesday, April 13th 2022, 9:52:35 pm","dg-publish":true,"dg-permalink":"projects","permalink":"/projects/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-permalink":"projects","date":"2022-04-13T21:51:46-04:00","lastmod":"2022-04-13T21:52:41-04:00","permalink":"/projects/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # [Game of Life Sequencer](https://github.com/gmuller/golsequencer)
