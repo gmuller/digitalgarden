@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/writing/"}
+{"dg-publish":true,"date":"Tuesday, April 5th 2022, 10:27:10 pm","lastmod":"Thursday, April 7th 2022, 10:50:39 pm","permalink":"/writing/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
+
 # Essays
 ## [[We should share more|We Should Share more]]
 
