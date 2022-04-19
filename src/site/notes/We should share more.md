@@ -1,5 +1,5 @@
 ---
-{"title":"We Should Share More","tags":["writing/post"],"dg-publish":true,"date":"Saturday, April 2nd 2022, 12:07:09 pm","lastmod":"Wednesday, April 13th 2022, 10:07:51 pm","permalink":"/we-should-share-more/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"title":"We Should Share More","tags":["writing/post"],"dg-publish":true,"date":"2021-11-09T19:06:07-05:00","lastmod":"2022-04-19T10:58:21-04:00","permalink":"/we-should-share-more/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # We Should Share More
