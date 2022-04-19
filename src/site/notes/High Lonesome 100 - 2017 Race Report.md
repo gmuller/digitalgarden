@@ -1,8 +1,11 @@
 ---
-{"dg-publish":true,"dg-permalink":"high-lonesome-2017","permalink":"/high-lonesome-2017/"}
+{"title":"High Lonesome 100: 2017","subtitle":"A Race Report","author":"Grant Muller","date":"2017-08-07T10:26:40+00:00","tags":["race report","running"],"keywords":["race report","ultrarunning","high Lonesome","running"],"dg-publish":true,"dg-permalink":"high-lonesome-2017","lastmod":"2022-04-19T10:23:28-04:00","permalink":"/high-lonesome-2017/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
+
 # High Lonesome 100 - 2017 Race Report
+
 <small>August 2017</small>
+
 We staggered up the last few steps in the dark to the top of Monarch on the Continental Divide trail. A relentless wind slapped me in the face, and kept on slapping. A chill burrowed into me despite the wool shirt, rain jacket, gloves and buff. I couldn't see more than three feet in front of me; it wasn't fog, we were standing in a cloud. I turned back to Aaron, now nothing more than a diffuse headlamp glow and a voice in the dark.
 
 "We gotta get the hell off this ridge."
