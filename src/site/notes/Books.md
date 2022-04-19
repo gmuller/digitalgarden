@@ -1,5 +1,5 @@
 ---
-{"date":"Sunday, December 12th 2021, 9:57:16 am","lastmod":"Tuesday, March 22nd 2022, 12:45:03 pm","dg-publish":true,"permalink":"/books/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"lastmod":"2022-04-19T10:56:08-04:00","dg-publish":true,"date":"2021-12-12T09:57:16-05:00","permalink":"/books/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # Reading
