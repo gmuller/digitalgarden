@@ -13,6 +13,10 @@ body {
     line-height: normal;
   }
 
+  h3 {
+    color: rgba(0,0,0,.7);
+  }
+
   .full-width {
     width: 100vw;
     position: relative;
@@ -51,6 +55,10 @@ body {
     .date {
       font-size: smaller;
       font-weight: bold;
+    }
+
+    footer {
+      text-align: center;
     }
   }
 }
