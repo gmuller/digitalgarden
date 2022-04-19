@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/books/"}
+{"date":"Sunday, December 12th 2021, 9:57:16 am","lastmod":"Tuesday, March 22nd 2022, 12:45:03 pm","dg-publish":true,"permalink":"/books/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
+
 # Reading
 - Team of Teams
 # Tools
@@ -53,7 +54,7 @@
 - Enterprise Integration Patterns
 - How to Win Friends and Influence People
 - Darkness at Noon
-- [[Tales of the Dervishes]]
+- [[Tales of the Dervishes|Tales of the Dervishes]]
 - [Brothers, Rivals, Victors: Eisenhower, Patton, Bradley and the Partnership that Drove the Allied Conquest in Europe](https://www.amazon.com/gp/product/B004H0M8GI/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B004H0M8GI&linkCode=as2&tag=stucosuccess&linkId=FSXA3GZUT5SFDAZ4)
 - [Other Minds](https://www.amazon.com/Other-Minds-Octopus-Origins-Consciousness-ebook/dp/B01FQRPIIA/)
 - Michener Mexico
