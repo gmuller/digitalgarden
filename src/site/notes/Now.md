@@ -1,5 +1,5 @@
 ---
-{"lastmod":"2022-04-19T10:51:57-04:00","dg-publish":true,"dg-permalink":"now","date":"2022-04-13T21:31:28-04:00","permalink":"/now/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"lastmod":"2022-04-19T10:57:00-04:00","dg-publish":true,"dg-permalink":"now","date":"2022-04-13T21:31:28-04:00","permalink":"/now/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # Now
