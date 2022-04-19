@@ -10,7 +10,7 @@ Still raising two kids in the metro Atlanta area. Also this other stuff
 
 Running a lot. Big race calendar for 2022:
 
-- [[0 Inbox/Cocodona 250|Cocodona 250]]
+- [[Cocodona 250|Cocodona 250]]
 - [[High Lonesome|High Lonesome]]
 - [[UTMB|UTMB]]
 
