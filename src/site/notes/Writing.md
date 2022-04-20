@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"date":"2022-04-05T22:27:10-04:00","lastmod":"2022-04-20T14:20:34-04:00","permalink":"/writing/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"date":"2022-04-05T22:27:10-04:00","lastmod":"2022-04-20T14:22:33-04:00","permalink":"/writing/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # Essays
@@ -12,3 +12,4 @@
 
 # How To
 [[The Evernote Workout Log|The Evernote Workout Log]]
+[[Coffee Sack Sound Baffles|Coffee Sack Sound Baffles]]
