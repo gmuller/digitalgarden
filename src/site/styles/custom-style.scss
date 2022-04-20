@@ -31,6 +31,7 @@ body {
   }
 
   .content {
+    font-family: --apple-system, BlinkMacSystemFont, "avenir next", avenir, "helvetica neue", helvetica, ubuntu, roboto, noto, "segoe ui", arial, sans-serif;
     font-size: clamp(18px, 8px + .8vw, 20px);
     width: 95vw;
     max-width: 750px;
