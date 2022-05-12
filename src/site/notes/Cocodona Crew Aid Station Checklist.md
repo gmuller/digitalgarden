@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"dg-permalink":"cocodona2crewaidchecklist","permalink":"/cocodona2crewaidchecklist/"}
+{"date":"Friday, April 29th 2022, 9:46:54 pm","lastmod":"2022-04-29T21:57:29-04:00","dg-publish":true,"dg-permalink":"cocodona2crewaidchecklist","permalink":"/cocodona2crewaidchecklist/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
+
 # Cocodona Crew Aid Station Checklist
 
 ## Basics
-- [ ]   Time of Day?
-- [ ]  What is the next section distance/vert?  
+- [ ] Time of Day?
+- [ ] What is the next section distance/vert?  
 - [ ] Estimated time to next section?
 - [ ] Are you Sleepy?
 	- [ ] Recovery Drink?
