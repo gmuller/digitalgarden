@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"date":"2022-04-05T22:27:10-04:00","lastmod":"2022-04-20T14:28:58-04:00","permalink":"/writing/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"date":"2022-04-05T22:27:10-04:00","lastmod":"2022-05-11T21:43:08-04:00","permalink":"/writing/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # Essays
@@ -8,6 +8,7 @@
 [[Programming, Languages, and Hacking the Way We Think|Programming, Languages, and Hacking the Way We Think]]
 
 # Race Reports
+[[I Ran 250 Miles Across Arizona in 4 Days|I Ran 250 Miles Across Arizona in 4 Days]]
 [[High Lonesome 100 - 2017 Race Report|High Lonesome 100 - 2017 Race Report]]
 [[Cruel Jewel 50 - 2017 Race Report|Cruel Jewel 50 - 2017 Race Report]]
 [[200 Miles, 8 Runners, 31 Hours|200 Miles, 8 Runners, 31 Hours]]
