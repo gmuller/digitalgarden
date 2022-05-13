@@ -16,6 +16,11 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
         {%include "components/navigation.njk"%}
       {% endif %}
       {{ content | link | highlight | safe}}
+      <div>
+        <hr />
+        <div><small>created: {{ date | truncate(10, true, "") }}</small></div>
+        <div><small>updated: {{ lastmod | truncate(10, true, "") }}</small></div>
+      </div>
     </div>
   </body>
 </html>
