@@ -17,3 +17,4 @@
 # How To
 [[The Evernote Workout Log|The Evernote Workout Log]]
 [[Coffee Sack Sound Baffles|Coffee Sack Sound Baffles]]
+[[Cheap and Easy Speaker Stands|Cheap and Easy Speaker Stands]]
