@@ -13,14 +13,9 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
 
     <div class="content">
       {% if dgHomeLink !== false%}
-        {%include "components/navigation.njk"%}
+        <a href="/">🏡 Back Home</a>
       {% endif %}
       {{ content | link | highlight | safe}}
-      <div>
-        <hr />
-        <div><small>created: {{ date | truncate(10, true, "") }}</small></div>
-        <div><small>updated: {{ lastmod | truncate(10, true, "") }}</small></div>
-      </div>
     </div>
   </body>
 </html>
