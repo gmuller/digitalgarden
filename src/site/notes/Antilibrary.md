@@ -4,7 +4,7 @@
 
 # Antilibrary
 
-Large personal library of many of which have not been read. An ode to what you want to explore. They have more potential value unread rather than read. Buy the books that other author's have referenced. Ask others for recommendations. Ask for Anti-recommendations (stuff you think you would *never* read).
+Large personal library of many of which have not been read. An ode to what you want to explore. They have more potential value unread rather than read. Buy the books that other author's have referenced. Ask others for recommendations. Ask for [[Antirecommendations|Antirecommendations]].
 
 According to the writers at [Farnham Street:](https://fs.blog/the-antilibrary/)
 
