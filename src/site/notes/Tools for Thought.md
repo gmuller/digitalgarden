@@ -3,4 +3,4 @@
 ---
 
 # Tools for Thought
-- [[Antilibrary|Antilibrary]]
+[[Antilibrary|Antilibrary]]
