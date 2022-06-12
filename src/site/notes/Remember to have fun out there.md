@@ -5,7 +5,7 @@
 # Remember To Have Fun Out There
 <small>June 11, 2022</small>
 
-I’m about a mile into my run in the neighborhood today, waiting at an intersection for a car to pass when an old navy blue pickup truck slows to a stop beside me. An even older man with gray and white hair peeking out of what had to be a 30 year old Braves cap rolls down the window. “Hey, can you do me a favor?”
+I’m about a mile into my run in the neighborhood today, waiting at an intersection for a car to pass when an old navy blue pickup truck slows to a stop beside me. An even older man with gray and white hair spilling out of what had to be a 30 year old Braves cap rolls down the window. “Hey, can you do me a favor?”
 
 “Sure” I nodded and said.
 
