@@ -1,6 +1,10 @@
 ---
-{"date":"2022-05-11T21:34:23-04:00","lastmod":"2022-05-11T21:42:17-04:00","dg-publish":true,"dg-permalink":"250milesacrossthedesert","permalink":"/250milesacrossthedesert/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"date":"2022-05-11T21:34:23-04:00","lastmod":"2022-06-12T07:56:54-04:00","dg-publish":true,"dg-permalink":"250milesacrossthedesert","permalink":"/250milesacrossthedesert/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
+
+# I Ran 250 Miles Across Arizona in 4 Days
+## A Love Letter Disguised as a Race Report
+<small>May 11 2022</small>
 
 “I ran 250 miles across Arizona in 4 days.”
 
