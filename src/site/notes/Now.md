@@ -1,5 +1,5 @@
 ---
-{"lastmod":"2022-04-19T10:57:00-04:00","dg-publish":true,"dg-permalink":"now","date":"2022-04-13T21:31:28-04:00","permalink":"/now/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"lastmod":"2022-06-09T22:19:04-04:00","dg-publish":true,"dg-permalink":"now","date":"2022-04-13T21:31:28-04:00","permalink":"/now/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # Now
@@ -18,7 +18,7 @@ Running a lot. Big race calendar for 2022:
 
 Playing my [[Red Peavey Radial Pro 1000|Red Peavey Radial Pro 1000]] kit when I get a chance, especially this February when Tim and I recorded [[Letter Seventeen|Letter Seventeen]]'s latest album [Falcon Payments](https://letterseventeen.bandcamp.com/album/falcon-payments)
 
-Jamming out with a [[Polyend Tracker|Polyend Tracker]], [[norns|norns]], and [[Novation Circuit Tracks|Novation Circuit Tracks]] when I get a few moments.
+Jamming out with a [[Polyend Tracker|Polyend Tracker]], [[Monome Norns|Monome Norns]], and [[Novation Circuit Tracks|Novation Circuit Tracks]] when I get a few moments.
 
 ## Work
 
