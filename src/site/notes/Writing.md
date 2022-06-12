@@ -3,6 +3,7 @@
 ---
 
 # Essays
+[[Remember to have fun out there|Remember to have fun out there]]
 [[We should share more|We Should Share more]]
 [[Meaning In Repetition|Meaning In Repetition]]
 [[Programming, Languages, and Hacking the Way We Think|Programming, Languages, and Hacking the Way We Think]]
