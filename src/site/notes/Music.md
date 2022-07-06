@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"music","date":"2022-04-13T21:48:14-04:00","lastmod":"2022-07-06T11:27:54-04:00","permalink":"/music/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-permalink":"music","date":"2018-04-13T21:48:14-04:00","lastmod":"2022-07-06T11:27:54-04:00","permalink":"/music/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # Music
