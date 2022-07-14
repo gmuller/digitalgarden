@@ -1,10 +1,10 @@
 ---
-{"lastmod":"2022-04-19T14:26:51-04:00","dg-publish":true,"date":"2021-12-12T09:57:16-05:00","permalink":"/books/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"lastmod":"2022-07-13T20:59:35-04:00","dg-publish":true,"date":"2021-12-12T09:57:16-05:00","permalink":"/books/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # Books
 ## Currently Reading
-- [[The Master and Margerita|The Master and Margerita]]
+- Conversations - Steve Reich
 
 ## Books I Have Read and Wrote Something About
 - [[Seven Languages in Seven Weeks|Seven Languages in Seven Weeks]]
@@ -25,8 +25,10 @@
 
 ## Still Left to Read
 - Confident Mind
+- Invisible Cities
+- The illuminatus trilogy - Robert Anton Wilson
 - The Fifth Discipline
-- Analogia
+- Analogia - George Dyson
 - The Story of Civilization - Durant
 - [The Origin of Consciousness in the Breakdown of the Bicameral Mind](https://www.amazon.com/Origin-Consciousness-Breakdown-Bicameral-Mind-ebook/dp/B009MBTRHA/)
 - [An Elegant Puzzle](https://www.amazon.com/dp/1732265186/?_encoding=UTF8&pd_rd_w=OPCUJ&pf_rd_p=f0565570-f67b-4783-ab26-5a1f2c0bb3fd&pf_rd_r=DX2947R0T1YZKEPCN64Y&pd_rd_r=84cb6cd8-e262-4818-a0b7-8936e0094be8&pd_rd_wg=1aJWZ&ref_=bd_tags_dp_rec)
@@ -65,5 +67,4 @@
 - Michener Mexico
 - The books of Jacob Olga Tokaczuk
 - Jeremy Rifkin Time Wars
-- Master and margarita Bulgakov
 - War and peace
