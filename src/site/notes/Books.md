@@ -1,31 +1,42 @@
 ---
-{"lastmod":"2022-07-13T20:59:35-04:00","dg-publish":true,"date":"2021-12-12T09:57:16-05:00","permalink":"/books/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"lastmod":"2022-07-20T08:28:41-04:00","dg-publish":true,"dg-permalink":"books","date":"2021-12-12T09:57:16-05:00","permalink":"/books/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # Books
 ## Currently Reading
 - Conversations - Steve Reich
+- Invisible Cities - Italo Calvino
 
 ## Books I Have Read and Wrote Something About
 - [[Seven Languages in Seven Weeks|Seven Languages in Seven Weeks]]
+- [[Japan At War|Japan At War]]
 
 ## Tools to Find New Books to Read
+
 * [A Book Like Foo](https://abooklikefoo.com)
+
 * [Reddit Reads](https://www.redditreads.com/r/all?year=2021)
+
 * [OpenLibrary](https://books-search.typesense.org)
 
 ## Places to Find Books
+
 * [IndieBound.org](https://www.indiebound.org)
+
 * [Bookshop: Store Locator](https://bookshop.org/pages/store_locator)
 
 ## Reviews and Recommendations
+
 * [Italic Type](https://www.italictype.com/app/#/home)
+
 * [Readng](https://beta.readng.co/dashboard)
+
 * [Book Marks](https://bookmarks.reviews)
 
 ## Still Left to Read
 - Confident Mind
 - Invisible Cities
+- The Infinity of Lists - Umberto Eco
 - The illuminatus trilogy - Robert Anton Wilson
 - The Fifth Discipline
 - Analogia - George Dyson
