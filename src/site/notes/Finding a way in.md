@@ -4,7 +4,7 @@
 
 # Finding a Way in
 
-It's hard to find aa way in. I don't know how to guide you. There is no map. There is no compass. Perhaps look at [[Writing|Writing]], or [[Music|Music]]. Here is what I'm doing [[Now|Now]].
+It's hard to find a way in. I don't know how to guide you. There is no map. There is no compass. Perhaps look at [[Writing|Writing]], or [[Music|Music]]. Here is what I'm doing [[Now|Now]].
 
 ## Other Stuff
 A list of [[Tools for Thought|Tools for Thought]]
