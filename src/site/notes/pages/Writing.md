@@ -10,8 +10,7 @@
 - [[pages/Programming, Languages, and Hacking the Way We Think|Programming, Languages, and Hacking the Way We Think]]
 - [[pages/The RPM Challenge and The Power of Constrained Creativity|The RPM Challenge and The Power of Constrained Creativity]]
 
-# Short Post Ideas
-- [[pages/Ineffective Superpowers|Ineffective Superpowers]]
+# Short Posts
 - [[pages/To Run Easy or Hard|To Run Easy or Hard]]
 
 # Race Reports
