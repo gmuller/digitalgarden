@@ -1,5 +1,5 @@
 ---
-{"title":"High Lonesome 100: 2017","subtitle":"A Race Report","author":"Grant Muller","date":"2017-08-07T10:26:40+00:00","keywords":["race report","ultrarunning","high Lonesome","running"],"dg-publish":true,"dg-permalink":"high-lonesome-2017","lastmod":"2022-04-19T10:29:46-04:00","permalink":"/high-lonesome-2017/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"title":"High Lonesome 100: 2017","subtitle":"A Race Report","author":"Grant Muller","date":"2017-08-07T10:26:40+00:00","keywords":["race report","ultrarunning","high Lonesome","running"],"dg-publish":true,"dg-permalink":"high-lonesome-2017","lastmod":"2022-04-19T10:29:46-04:00","permalink":"/high-lonesome-2017/","dgPassFrontmatter":true}
 ---
 
 # High Lonesome 100 - 2017 Race Report
