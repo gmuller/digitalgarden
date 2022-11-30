@@ -1,5 +1,5 @@
 ---
-{"title":"Cruel Jewel 50: 2017","subtitle":"A Race Report","author":"Grant Muller","date":"2017-05-22T16:54:41+00:00","lastmod":"2022-09-25T11:18:28-04:00","dg-publish":true,"dg-permalog":"cruel-jewel-50-a-race-report","permalink":"/pages/cruel-jewel-50-2017-race-report/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"title":"Cruel Jewel 50: 2017","subtitle":"A Race Report","author":"Grant Muller","date":"2017-05-22T16:54:41+00:00","lastmod":"2022-09-25T11:18:28-04:00","dg-publish":true,"dg-permalog":"cruel-jewel-50-a-race-report","permalink":"/pages/cruel-jewel-50-2017-race-report/","dgPassFrontmatter":true}
 ---
 
 
