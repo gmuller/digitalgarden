@@ -1,5 +1,5 @@
 ---
-{"title":"200 Miles, 8 Runners, 31 Hours: A Race Log","author":"Grant Muller","date":"2010-10-18T12:00:55+00:00","dg-permalink":"200-miles-8-runners-31-hours-a-race-log","dg-publish":true,"tags":"training","lastmod":"2022-04-20T14:28:37-04:00","permalink":"/200-miles-8-runners-31-hours-a-race-log/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"title":"200 Miles, 8 Runners, 31 Hours: A Race Log","author":"Grant Muller","date":"2010-10-18T12:00:55+00:00","dg-permalink":"200-miles-8-runners-31-hours-a-race-log","dg-publish":true,"tags":"training","lastmod":"2022-04-20T14:28:37-04:00","permalink":"/200-miles-8-runners-31-hours-a-race-log/","dgPassFrontmatter":true}
 ---
 
 ![Shirt][11]
