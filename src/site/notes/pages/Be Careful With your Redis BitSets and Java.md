@@ -1,5 +1,5 @@
 ---
-{"title":"Be Careful With your Redis BitSets and Java","author":"Grant Muller","date":"2012-07-04T02:55:23+00:00","dg-permalink":"be-careful-with-your-redis-bitsets-and-java","dg-publish":true,"tags":["code","java","software"],"lastmod":"2022-04-20T14:19:59-04:00","permalink":"/be-careful-with-your-redis-bitsets-and-java/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"title":"Be Careful With your Redis BitSets and Java","author":"Grant Muller","date":"2012-07-04T02:55:23+00:00","dg-permalink":"be-careful-with-your-redis-bitsets-and-java","dg-publish":true,"tags":["code","java","software"],"lastmod":"2022-04-20T14:19:59-04:00","permalink":"/be-careful-with-your-redis-bitsets-and-java/","dgPassFrontmatter":true}
 ---
 
 # Be Careful With Your Redis BitSets and Java
