@@ -1,5 +1,5 @@
 ---
-{"id":202206111559,"lastmod":"2022-06-12T07:55:09-04:00","date":"2022-06-11T15:59:19-04:00","dg-publish":true,"dg-permalink":"remembertohavefun","permalink":"/remembertohavefun/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"id":202206111559,"lastmod":"2022-06-12T07:55:09-04:00","date":"2022-06-11T15:59:19-04:00","dg-publish":true,"dg-permalink":"remembertohavefun","permalink":"/remembertohavefun/","dgPassFrontmatter":true}
 ---
 
 # Remember To Have Fun Out There
