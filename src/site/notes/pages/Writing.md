@@ -1,18 +1,18 @@
 ---
-{"dg-publish":true,"dg-permalink":"writing","date":"2022-04-05T22:27:10-04:00","lastmod":"2022-11-29T21:24:07-05:00","permalink":"/writing/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-permalink":"writing","date":"2022-04-05T22:27:10-04:00","lastmod":"2022-11-29T21:27:15-05:00","permalink":"/writing/","dgPassFrontmatter":true}
 ---
 
 # Essays
 
+- [[pages/Why\|Why]]
+- [[pages/On Identity\|On Identity]]
+- [[pages/Thirty Worms\|Thirty Worms]]
+- [[pages/As Good As You Are Right Now\|As Good As You Are Right Now]]
 - [[pages/Remember to have fun out there\|Remember to have fun out there]]
 - [[pages/We should share more\|We should share more]]
 - [[pages/Meaning In Repetition\|Meaning In Repetition]]
 - [[pages/Programming, Languages, and Hacking the Way We Think\|Programming, Languages, and Hacking the Way We Think]]
 - [[pages/The RPM Challenge and The Power of Constrained Creativity\|The RPM Challenge and The Power of Constrained Creativity]]
-- [[pages/Why\|Why]]
-- [[pages/On Identity\|On Identity]]
-- [[pages/Thirty Worms\|Thirty Worms]]
-- [[pages/As Good As You Are Right Now\|As Good As You Are Right Now]]
 
 # Short Posts
 - [[pages/To Run Easy or Hard\|To Run Easy or Hard]]
