@@ -1,5 +1,5 @@
 ---
-{"title":"The Evernote Workout Log","author":"Grant Muller","date":"2009-12-15T20:32:16+00:00","tags":["featured","tip","training"],"dg-permalink":"the-evernote-workout-log","dg-publish":true,"lastmod":"2022-04-19T14:51:16-04:00","permalink":"/the-evernote-workout-log/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"title":"The Evernote Workout Log","author":"Grant Muller","date":"2009-12-15T20:32:16+00:00","tags":["featured","tip","training"],"dg-permalink":"the-evernote-workout-log","dg-publish":true,"lastmod":"2022-04-19T14:51:16-04:00","permalink":"/the-evernote-workout-log/","dgPassFrontmatter":true}
 ---
 
 ![Evernote](/images/photo-3-e1286338779641.png)
