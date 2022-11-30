@@ -1,6 +1,7 @@
 ---
-{"title":"Seven Languages in Seven Weeks","author":"Grant Muller","date":"2012-09-24T12:00:28+00:00","lastmod":"2022-04-19T14:27:29-04:00","dg-publish":true,"dg-permalink":"seven-languages-in-seven-weeks","permalink":"/seven-languages-in-seven-weeks/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"title":"Seven Languages in Seven Weeks","author":"Grant Muller","date":"2012-09-24T12:00:28+00:00","lastmod":"2022-04-19T14:27:29-04:00","dg-publish":true,"dg-permalink":"seven-languages-in-seven-weeks","permalink":"/seven-languages-in-seven-weeks/","dgPassFrontmatter":true}
 ---
+
 
 # Seven Languages in Seven Weeks
 ## Introduction
@@ -16,7 +17,6 @@ The languages you learn are the languages you express yourself with. They mold t
 Recently I've gone to great lengths to change the way I think. Finding new ways to solve problems, especially software problems, often involves learning new languages, syntaxes or paradigms. You can force Java or C to do just about anything, just as you can force the English language to \*describe\* just about anything, but it might be that by using Java instead of Haskell, you're using the wrong tool for the job.
 
 I wanted to expose myself to a breadth of different software paradigms in as little time as possible. Rather than reading dozens of tutorials, or poring through hundreds of pages of reference manuals to get maximum exposure, I bought a book I called [Seven Languages in Seven Weeks][8]. Packed into this dense little tome is an overview of seven syntaxes from different families and programming paradigms.
-
 ## The Languages
 ### Ruby
 
@@ -25,7 +25,6 @@ The book begins with Ruby. It's a fairly common syntax and I considered skipping
 From a comfort standpoint starting with a language you're familiar with is also a bit like reading the introduction to a Latin grammar text book in English. I know the language and therefore the author can present his approach to me with words I can understand before I try to make my way through the rest of his presentation.
 
 Speaking of presentation, Tate clearly has a grasp of basic pedagogy. From the beginning he uses a mnemonic device to help the reader put a face to the chapter and the methodology. For Tate, every language is like a character in a movie. They have their own personalities; something that makes them unique within the dozens of lexical environments out there. For Ruby it's Mary Poppins. You know, syntactical sugar. Get it.
-
 ### IO
 
 After Ruby Tate introduces a language I had never heard of, Io. Just try searching for information about this little language on the web. You won't exactly find the throbbing community that surrounds java or ruby to back you up. No, if you choose to use Io to solve something new, you'll likely find yourself in uncharted territory. Not necessarily a bad thing if your approach to the text is to learn new ways to think.
@@ -33,15 +32,13 @@ After Ruby Tate introduces a language I had never heard of, Io. Just try searchi
 A prototype language, Io is described by Tate as Ferris Bueller. In use I got the distinct impression that Io was heavily influenced by [Smalltalk](http://en.wikipedia.org/wiki/Smalltalk); everything you send is a message, and their are nothing but senders and receivers of messages. Method or function? Not really, there are 'slots' with message handlers. Can they be construed as the same thing, abstractly yes, but that is to avoid thinking in a way that make the language unique. Sending messages between objects is a powerful concept, and will help you better understand Objective-C and Smalltalk.
 
 Using Io feels a bit like working in JavaScript, the only other prototype language I have any experience with. The concurrency framework is dead simple and provides the reader with a taste of things to come from languages like Scala and Closure. In fact, the actor framework in Io is so simple and impressive it feels like a great environment in which to teach concepts of asynchronous behavior and concurrent development.
-
-### Prolog
-
-After Io we get to Prolog, the most frustrating language paradigm for me to grasp in the book. Tate says Prolog is like Rainman. That must make me Tom Cruise.
-
-The logic programming paradigm was at once the most fascinating and frustrating for me to study. At first I was enthralled. A language that I can plug values into and simply query against to get the answer like a super-powered database? Sign me up. I immediately found myself fighting the syntax. It took me some time to grasp the recursive nature of the language as well; no looping structures.
-
-Solving the sudoku problem at the end is the best example of the power of Prolog and languages like it. Reducing a game to a couple of line of syntax, injecting the rules and simply asking questions is a beautiful way to solve many of the problems modern engineers are presented with &#8230;if Rainman doesnt drive you nuts along the way.
-
+- ### Prolog
+  
+  After Io we get to Prolog, the most frustrating language paradigm for me to grasp in the book. Tate says Prolog is like Rainman. That must make me Tom Cruise.
+  
+  The logic programming paradigm was at once the most fascinating and frustrating for me to study. At first I was enthralled. A language that I can plug values into and simply query against to get the answer like a super-powered database? Sign me up. I immediately found myself fighting the syntax. It took me some time to grasp the recursive nature of the language as well; no looping structures.
+  
+  Solving the sudoku problem at the end is the best example of the power of Prolog and languages like it. Reducing a game to a couple of line of syntax, injecting the rules and simply asking questions is a beautiful way to solve many of the problems modern engineers are presented with... if Rainman doesn't drive you nuts along the way.
 ### Scala
 
 With Scala we take a detour back to familiar territory. Scala is the first variant on the java language I'd had the opportunity to use, so when I began the chapter I had some exposure to it. Most of the concepts in this language sunk right in.
@@ -49,29 +46,25 @@ With Scala we take a detour back to familiar territory. Scala is the first varia
 Tate says we can think of Scala as Edward Scissorhands. He is the construction of spare parts and a lot of paradigms that already exist. I prefer to think of Scala as MacGuyver; It can do pretty much anything in a pinch. Scala was a comfortable environment to take a break in for a while. It sports functional programming paradigms like [higher-order functions](http://en.wikipedia.org/wiki/Higher-order_function), while retaining many imperative concepts held over from C-based languages. Its also completely interoperable with Java, so all of those libraries we've grown attached to like [joda](http://joda-time.sourceforge.net/) and [jsyn](http://www.softsynth.com/jsyn/) can be reused in the same lexical environment.
 
 For concurrency Scala provides an actor system, much like Io. Tate clearly planned the book to address concurrency in a methodical way, first by introducing simple examples with Io, then advancing to Scala before diving headlong into the deep waters of Erlang and Clojure.
-
-### Erlang
-
-Things get uncomfortable again as Tate introduces erlang. From the get go Erlang baffled me, and when it was revealed that it was modeled after Prolog, I understood why. The only language compared to an antagonist in a movie, Tate describes Erlang as Agent Smith from the Matrix. Tate says that this is due to the self-replicating capabilities of Agent Smith in relation to the fail-safes built into Erlang, allowing the user to build highly fault tolerant concurrent systems that &#8220;just won't die&#8221;. I think it's because Erlang is evil.
-
-Erlang is clearly very powerful, so as with Prolog I struggled through the examples and problem sets. I still don't feel like I fully grasp how to do anything useful with it. Of the languages in the book, I feel like this is the one I need to spend the most time with to really understand.
-
-### Clojure
-
-Next we get a [lisp](http://en.wikipedia.org/wiki/Lisp\_(programming\_language)). Clojure, a language fully compatible with the jvm is a lisp not at all unlike [Scheme](http://schemers.org/), minus a few parentheses. For Tate this language is like Yoda, no doubt due to the &#8220;reverse&#8221; notation of the arguments and the &#8220;inside-outness&#8221; of the code construction, at least compared to C.
-
-Surprisingly, I took right to it. Of the new lexical environments this felt the most comfortable, but then, I've played with emacs a bit. The concurrency framework is not at all unlike scala with some notable additions. The concept of [STM](http://en.wikipedia.org/wiki/Software\_transactional\_memory) was awkward at first, but after fiddling with it for a while I was comfortable producing usable code.
-
-The interoperability with Java is another major benefit to using Clojure. For [Dijkstra's Sleeping Barber problem](http://en.wikipedia.org/wiki/Sleeping\_barber\_problem), rather than struggle through writing a queue from scratch, I just borrowed the existing Java [LinkedBlockingQueue](http://docs.oracle.com/javase/6/docs/api/java/util/concurrent/LinkedBlockingQueue.html), cranking up one actor to poll it, and another to deliver to it:
-
-In just under 1000 parentheses the barbershop problem was solved. The wrapper around it is unnecessary, but then the whole solution is a little bit wordy for Clojure.
-
+- ### Erlang
+  
+  Things get uncomfortable again as Tate introduces erlang. From the get go Erlang baffled me, and when it was revealed that it was modeled after Prolog, I understood why. The only language compared to an antagonist in a movie, Tate describes Erlang as Agent Smith from the Matrix. Tate says that this is due to the self-replicating capabilities of Agent Smith in relation to the fail-safes built into Erlang, allowing the user to build highly fault tolerant concurrent systems that "just won't die". I think it's because Erlang is evil.
+  
+  Erlang is clearly very powerful, so as with Prolog I struggled through the examples and problem sets. I still don't feel like I fully grasp how to do anything useful with it. Of the languages in the book, I feel like this is the one I need to spend the most time with to really understand.
+- ### Clojure
+  
+  Next we get a [lisp](http://en.wikipedia.org/wiki/Lisp\_(programming\_language)). Clojure, a language fully compatible with the jvm is a lisp not at all unlike [Scheme](http://schemers.org/), minus a few parentheses. For Tate this language is like Yoda, no doubt due to the reverse notation of the arguments and the inside-outness of the code construction, at least compared to C.
+  
+  Surprisingly, I took right to it. Of the new lexical environments this felt the most comfortable, but then, I've played with emacs a bit. The concurrency framework is not at all unlike scala with some notable additions. The concept of [STM](http://en.wikipedia.org/wiki/Software\_transactional\_memory) was awkward at first, but after fiddling with it for a while I was comfortable producing usable code.
+  
+  The interoperability with Java is another major benefit to using Clojure. For [Dijkstra's Sleeping Barber problem](http://en.wikipedia.org/wiki/Sleeping\_barber\_problem), rather than struggle through writing a queue from scratch, I just borrowed the existing Java [LinkedBlockingQueue](http://docs.oracle.com/javase/6/docs/api/java/util/concurrent/LinkedBlockingQueue.html), cranking up one actor to poll it, and another to deliver to it:
+  
+  In just under 1000 parentheses the barbershop problem was solved. The wrapper around it is unnecessary, but then the whole solution is a little bit wordy for Clojure.
 ### Haskell
 
 Impressed as I was with Clojure, it was time to study the final language in the book, Haskell. I originally selected the book based on the inclusion of Haskell. For some time now I've wanted to take a crack at this pure functional, almost entirely mathematical language.
 
 Compared with the ever logical Spock, I'm still dazzled by Haskell. Having read the chapter and gone through the exercises, I feel like I've only scratched the surface of what it can do. It's unofficial tag is that it makes hard things easy, and easy things hard. That ain't no lie. Try reading a file with it. Do something simple, like open a socket. I feels like pulling teeth. Now go write a Fibonacci solver. Chances are you'll have cooked up something that can't be done as succinctly or quickly as Haskell can do it. Of all the languages in the book, this is the one I intend to dig the deepest with.
-
 ## Wrap-up
 
 When learning anything, I generally feel like a breadth-first overview is the best method of getting started. When learning new ways to think, this breadth-first search seems even more important. Get all your options on the table, see what's been discovered before deciding how to tackle the problem. Selecting a strategy to go deeper with is a decision that can always be deferred until you know what your strategies are (Of course, you can only defer for so long before you just need to make a damned decision based on what you already know).
