@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"run-easy-or-hard","date":"2021-11-17T21:17:08-05:00","lastmod":"2022-10-13T15:37:20-04:00","permalink":"/run-easy-or-hard/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-permalink":"run-easy-or-hard","date":"2021-11-17T21:17:08-05:00","lastmod":"2022-10-13T15:37:20-04:00","permalink":"/run-easy-or-hard/","dgPassFrontmatter":true}
 ---
 
 
