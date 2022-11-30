@@ -1,5 +1,5 @@
 ---
-{"title":"Cheap and Easy Speaker Stands","author":"Grant Muller","dg-permalink":"cheap-and-easy-speaker-stands","date":"2022-04-19T14:14:29-04:00","lastmod":"2022-05-12T21:39:23-04:00","dg-publish":true,"permalink":"/cheap-and-easy-speaker-stands/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"title":"Cheap and Easy Speaker Stands","author":"Grant Muller","dg-permalink":"cheap-and-easy-speaker-stands","date":"2022-04-19T14:14:29-04:00","lastmod":"2022-05-12T21:39:23-04:00","dg-publish":true,"permalink":"/cheap-and-easy-speaker-stands/","dgPassFrontmatter":true}
 ---
 
 
