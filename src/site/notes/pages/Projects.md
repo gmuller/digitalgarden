@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"projects","date":"2022-04-13T21:51:46-04:00","lastmod":"2022-04-20T14:26:35-04:00","permalink":"/projects/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-permalink":"projects","date":"2022-04-13T21:51:46-04:00","lastmod":"2022-04-20T14:26:35-04:00","permalink":"/projects/","dgPassFrontmatter":true}
 ---
 
 # Projects
