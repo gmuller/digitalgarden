@@ -1,5 +1,5 @@
 ---
-{"lastmod":"2022-07-20T20:25:25-04:00","dg-publish":true,"dg-permalink":"now","date":"2022-04-13T21:31:28-04:00","permalink":"/now/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"lastmod":"2022-07-20T20:25:25-04:00","dg-publish":true,"dg-permalink":"now","date":"2022-04-13T21:31:28-04:00","permalink":"/now/","dgPassFrontmatter":true}
 ---
 
 # Now
@@ -10,14 +10,14 @@ Still raising two kids in the metro Atlanta area. Also this other stuff
 
 Running a lot. Big race calendar for 2022:
 
-- [[Cocodona 250|Cocodona 250]]
-- [[pages/UTMB|UTMB]]
+- [[Cocodona 250\|Cocodona 250]]
+- [[pages/UTMB\|UTMB]]
 
 ## Music
 
-Playing my [[pages/Red Peavey Radial Pro 1000|Red Peavey Radial Pro 1000]] kit when I get a chance, especially this February when Tim and I recorded [[Letter Seventeen|Letter Seventeen]]'s latest album [Falcon Payments](https://letterseventeen.bandcamp.com/album/falcon-payments)
+Playing my [[pages/Red Peavey Radial Pro 1000\|Red Peavey Radial Pro 1000]] kit when I get a chance, especially this February when Tim and I recorded [[Letter Seventeen\|Letter Seventeen]]'s latest album [Falcon Payments](https://letterseventeen.bandcamp.com/album/falcon-payments)
 
-Jamming out with a [[pages/Polyend Tracker|Polyend Tracker]], [[pages/Monome Norns|Monome Norns]], and [[Novation Circuit Tracks|Novation Circuit Tracks]] on occasion.
+Jamming out with a [[pages/Polyend Tracker\|Polyend Tracker]], [[pages/Monome Norns\|Monome Norns]], and [[Novation Circuit Tracks\|Novation Circuit Tracks]] on occasion.
 
 ## Work
 
@@ -29,4 +29,4 @@ Not enough, looking for time to do more.
 
 ## Books
 
-Yeah, lots of [[pages/Books|Books]].
+Yeah, lots of [[pages/Books\|Books]].
