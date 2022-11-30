@@ -1,5 +1,5 @@
 ---
-{"title":"We Should Share More","dg-publish":true,"date":"2021-11-09T19:06:07-05:00","lastmod":"2022-09-26T14:26:20-04:00","permalink":"/pages/we-should-share-more/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"title":"We Should Share More","dg-publish":true,"date":"2021-11-09T19:06:07-05:00","lastmod":"2022-09-26T14:26:20-04:00","permalink":"/pages/we-should-share-more/","dgPassFrontmatter":true}
 ---
 
 
