@@ -1,5 +1,5 @@
 ---
-{"date":"2022-06-09T21:52:14-04:00","lastmod":"2022-06-09T21:55:50-04:00","dg-publish":true,"dg-permalink":"antirecommendations","permalink":"/antirecommendations/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"date":"2022-06-09T21:52:14-04:00","lastmod":"2022-06-09T21:55:50-04:00","dg-publish":true,"dg-permalink":"antirecommendations","permalink":"/antirecommendations/","dgPassFrontmatter":true}
 ---
 
 # Antirecommendations
