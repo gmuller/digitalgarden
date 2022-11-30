@@ -1,5 +1,5 @@
 ---
-{"title":"Coffee Sack Sound Baffles","author":"Grant Muller","date":"2011-12-28T03:53:53+00:00","dg-permalink":"coffee-sack-sound-baffles","dg-publish":true,"tags":["featured","music"],"lastmod":"2022-04-20T14:21:50-04:00","permalink":"/coffee-sack-sound-baffles/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"title":"Coffee Sack Sound Baffles","author":"Grant Muller","date":"2011-12-28T03:53:53+00:00","dg-permalink":"coffee-sack-sound-baffles","dg-publish":true,"tags":["featured","music"],"lastmod":"2022-04-20T14:21:50-04:00","permalink":"/coffee-sack-sound-baffles/","dgPassFrontmatter":true}
 ---
 
 # Coffee Sack Sound Baffles
