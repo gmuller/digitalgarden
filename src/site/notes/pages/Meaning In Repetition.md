@@ -1,5 +1,5 @@
 ---
-{"date":"2019-09-10T08:01:24-05:00","lastmod":"2022-04-19T14:17:33-04:00","dg-publish":true,"dg-permalink":"meaninginrepetition","permalink":"/meaninginrepetition/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"date":"2019-09-10T08:01:24-05:00","lastmod":"2022-04-19T14:17:33-04:00","dg-publish":true,"dg-permalink":"meaninginrepetition","permalink":"/meaninginrepetition/","dgPassFrontmatter":true}
 ---
 
 # Meaning In Repetition
