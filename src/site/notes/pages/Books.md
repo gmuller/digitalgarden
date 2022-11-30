@@ -1,19 +1,19 @@
 ---
-{"lastmod":"2022-07-22T16:42:56-04:00","dg-publish":true,"dg-permalink":"books","date":"2021-12-12T09:57:16-05:00","permalink":"/books/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"lastmod":"2022-07-22T16:42:56-04:00","dg-publish":true,"dg-permalink":"books","date":"2021-12-12T09:57:16-05:00","permalink":"/books/","dgPassFrontmatter":true}
 ---
 
 # Books
 ## Currently Reading
-- [[pages/Conversations - Steve Reich|Conversations - Steve Reich]]
-- [[pages/Invisible Cities - Italo Calvino|Invisible Cities - Italo Calvino]]
+- [[pages/Conversations - Steve Reich\|Conversations - Steve Reich]]
+- [[pages/Invisible Cities - Italo Calvino\|Invisible Cities - Italo Calvino]]
 
 ## Books I Have Read and Wrote Something About
-- [[pages/Seven Languages in Seven Weeks|Seven Languages in Seven Weeks]]
-- [[pages/Japan At War|Japan At War]]
-- [[pages/Zen Flesh, Zen Bones|Zen Flesh, Zen Bones]]
+- [[pages/Seven Languages in Seven Weeks\|Seven Languages in Seven Weeks]]
+- [[pages/Japan At War\|Japan At War]]
+- [[pages/Zen Flesh, Zen Bones\|Zen Flesh, Zen Bones]]
 
 ## Books I've read
-- [[Zen and the Art of Motorcycle Maintenance|Zen and the Art of Motorcycle Maintenance]]
+- [[Zen and the Art of Motorcycle Maintenance\|Zen and the Art of Motorcycle Maintenance]]
 
 ## Tools to Find New Books to Read
 - [A Book Like Foo](https://abooklikefoo.com)
@@ -31,8 +31,9 @@
 - [Book Marks](https://bookmarks.reviews)
 
 ## Still Left to Read
-- [[The Gift of Fear|The Gift of Fear]]
+- [[The Gift of Fear\|The Gift of Fear]]
 - Confident Mind
+- Mario Puzo 
 - The Infinity of Lists - Umberto Eco
 - The illuminatus trilogy - Robert Anton Wilson
 - The Fifth Discipline
@@ -66,10 +67,10 @@
 - The Varieties of Religious Experience
 - 10% Happier
 - Call Sign Chaos
-- [[pages/Enterprise Integration Patterns|Enterprise Integration Patterns]]
+- [[pages/Enterprise Integration Patterns\|Enterprise Integration Patterns]]
 - How to Win Friends and Influence People
 - Darkness at Noon
-- [[Tales of the Dervishes|Tales of the Dervishes]]
+- [[Tales of the Dervishes\|Tales of the Dervishes]]
 - [Brothers, Rivals, Victors: Eisenhower, Patton, Bradley and the Partnership that Drove the Allied Conquest in Europe](https://www.amazon.com/gp/product/B004H0M8GI/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B004H0M8GI&linkCode=as2&tag=stucosuccess&linkId=FSXA3GZUT5SFDAZ4)
 - [Other Minds](https://www.amazon.com/Other-Minds-Octopus-Origins-Consciousness-ebook/dp/B01FQRPIIA/)
 - Michener Mexico
