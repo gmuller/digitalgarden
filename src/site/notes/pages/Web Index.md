@@ -3,7 +3,7 @@
 ---
 
 
-# [[pages/Now|now]]
-# [[pages/Writing|writing]]
-# [[pages/Projects|projects]]
-# [[pages/Music|music]]
+# [[pages/Now\|now]]
+# [[pages/Writing\|writing]]
+# [[pages/Projects\|projects]]
+# [[pages/Music\|music]]
