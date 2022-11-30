@@ -1,5 +1,5 @@
 ---
-{"title":"Programming, Languages, and Hacking the Way We Think","author":"Grant Muller","date":"2011-08-19T12:00:25+00:00","dg-permalink":"hacking-the-way-we-think","dg-publish":true,"tags":["code"],"lastmod":"2022-04-20T14:24:22-04:00","permalink":"/hacking-the-way-we-think/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"title":"Programming, Languages, and Hacking the Way We Think","author":"Grant Muller","date":"2011-08-19T12:00:25+00:00","dg-permalink":"hacking-the-way-we-think","dg-publish":true,"tags":["code"],"lastmod":"2022-04-20T14:24:22-04:00","permalink":"/hacking-the-way-we-think/","dgPassFrontmatter":true}
 ---
 
 # Programming, Languages, and Hacking the Way We Think
