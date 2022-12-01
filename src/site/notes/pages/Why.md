@@ -1,7 +1,8 @@
 ---
-{"date":"2022-01-07T20:28:58-05:00","lastmod":"2022-11-29T21:22:28-05:00","dg-publish":true,"dg-permalink":"why","permalink":"/why/","dgPassFrontmatter":true}
+{"date":"2022-01-07T20:28:58-05:00","lastmod":"2022-12-01T07:44:04-07:00","dg-publish":true,"dg-permalink":"why","permalink":"/why/","dgPassFrontmatter":true}
 ---
 
+# Why
 
 I
 
