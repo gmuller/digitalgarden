@@ -1,7 +1,8 @@
 ---
-{"date":"2021-04-28T09:25:31-04:00","lastmod":"2022-11-29T21:21:48-05:00","dg-publish":true,"dg-permalink":"as-good-as-you-are-right-now","permalink":"/as-good-as-you-are-right-now/","dgPassFrontmatter":true}
+{"date":"2021-04-28T09:25:31-04:00","lastmod":"2022-12-01T07:45:13-07:00","dg-publish":true,"dg-permalink":"as-good-as-you-are-right-now","permalink":"/as-good-as-you-are-right-now/","dgPassFrontmatter":true}
 ---
 
+# As Good As You Are Right Now
 
 You're only ever as good as you are right now. Over the course of years of running, there are microcycles and macrocycles. If you draw a line from the first day you started running to today, that line will almost certainly move up and to the right. On the whole, you're always getting better in some respect, or at least better *relative* to what your total genetic capacity is for your age. There are microcycles of *getting worse* or *setbacks*, just as there are microcycles of "peaking" or supercompensation. It can be hard to look back 1 month, after recovering from a minor surgery and a case of sniffles, and see that you haven't gotten any better. Maybe by the numbers you even got a little worse, but you have to look backwards and forwards further than that. The road is filled with rolling hills, but most lifelong runners will see that they're always ascending in some way.
 
