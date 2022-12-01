@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"dg-permalink":"writing","date":"2022-04-05T22:27:10-04:00","lastmod":"2022-11-29T21:27:15-05:00","permalink":"/writing/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-permalink":"writing","date":"2022-04-05T22:27:10-04:00","lastmod":"2022-11-29T21:41:52-05:00","permalink":"/writing/","dgPassFrontmatter":true}
 ---
 
 # Essays
 
-- [[pages/Why\|Why]]
 - [[pages/On Identity\|On Identity]]
+- [[pages/Why\|Why]]
 - [[pages/Thirty Worms\|Thirty Worms]]
 - [[pages/As Good As You Are Right Now\|As Good As You Are Right Now]]
 - [[pages/Remember to have fun out there\|Remember to have fun out there]]
