@@ -1,7 +1,8 @@
 ---
-{"date":"2021-10-15T21:42:38-04:00","lastmod":"2022-11-29T21:23:16-05:00","dg-publish":true,"dg-permalink":"on-identity","permalink":"/on-identity/","dgPassFrontmatter":true}
+{"date":"2021-10-15T21:42:38-04:00","lastmod":"2022-12-01T07:44:25-07:00","dg-publish":true,"dg-permalink":"on-identity","permalink":"/on-identity/","dgPassFrontmatter":true}
 ---
 
+# On Identity
 
 What follows is a mental exercise I go through whenever I'm thinking about who I am. It's not a rigorous psychological or philosophical treatise, or a theory based on deductive reasoning. It's something that I do to make sure I'm not saddled with excess mental baggage, to keep myself objective in arguments, and to keep my mind open and adaptable to the world as it changes.
 
