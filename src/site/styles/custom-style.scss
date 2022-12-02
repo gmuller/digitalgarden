@@ -12,15 +12,6 @@ html {
     color: whitesmoke;
     font-family: --apple-system, BlinkMacSystemFont, "avenir next", avenir, "helvetica neue", helvetica, ubuntu, roboto, noto, "segoe ui", arial, sans-serif;
   }
-  
-  .full-width {
-    width: 100vw;
-    position: relative;
-    left: 50%;
-    right: 50%;
-    margin-left: -50vw;
-    margin-right: -50vw;
-  }
 
   a {
     text-decoration: none;
@@ -29,33 +20,5 @@ html {
   .content {
     font-family: --apple-system, BlinkMacSystemFont, "avenir next", avenir, "helvetica neue", helvetica, ubuntu, roboto, noto, "segoe ui", arial, sans-serif;
     font-size: clamp(18px, 8px + .8vw, 20px);
-    width: 95vw;
-    max-width: 750px;
-
-    h1, .title a {
-      color: whitesmoke;
-    }
-
-    .nav {
-      padding-top: .25rem;
-    }
-
-    .title {
-      font-size: 1.25rem;
-      font-weight: bold;
-    }
-
-    .links {
-      font-size: 1.1rem;
-    }
-
-    .date {
-      font-size: smaller;
-      font-weight: bold;
-    }
-
-    footer {
-      text-align: center;
-    }
   }
 }
