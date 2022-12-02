@@ -4,10 +4,6 @@ html {
     height: auto;
   }
 
-  h1, h2, h3, h4, h5, h6 {
-    line-height: normal;
-  }
-
   h1, h3, .title a {
     color: whitesmoke;
     font-family: --apple-system, BlinkMacSystemFont, "avenir next", avenir, "helvetica neue", helvetica, ubuntu, roboto, noto, "segoe ui", arial, sans-serif;
@@ -19,6 +15,5 @@ html {
 
   .content {
     font-family: --apple-system, BlinkMacSystemFont, "avenir next", avenir, "helvetica neue", helvetica, ubuntu, roboto, noto, "segoe ui", arial, sans-serif;
-    font-size: clamp(18px, 8px + .8vw, 20px);
   }
 }
