@@ -1,10 +1,10 @@
 ---
-{"lastmod":"2022-07-20T20:25:25-04:00","dg-publish":true,"dg-permalink":"now","date":"2022-04-13T21:31:28-04:00","permalink":"/now/","dgPassFrontmatter":true}
+{"lastmod":"2022-12-02T08:47:21-07:00","dg-publish":true,"dg-permalink":"now","date":"2022-04-13T21:31:28-04:00","permalink":"/now/","dgPassFrontmatter":true}
 ---
 
 # Now
 
-Still raising two kids in the metro Atlanta area. Also this other stuff
+Still raising two kids with my wonderful wife in the metro Atlanta area.
 
 ## Running
 
