@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"music","date":"2018-04-13T21:48:14-04:00","lastmod":"2023-07-13T21:00:08-04:00","permalink":"/music/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-permalink":"music","date":"2018-04-13T21:48:14-04:00","lastmod":"2022-07-20T08:29:49-04:00","permalink":"/music/","dgPassFrontmatter":true}
 ---
 
 # Music
@@ -32,8 +32,8 @@
 ### [Ascended Masters][4] 2008
 
 
- [1]: https://grantmuller.bandcamp.com/album/cog-and-flywheel
- [2]: https://grantmuller.bandcamp.com/album/best-condition-ep
+ [1]: http://music.grantmuller.com/album/cog-and-flywheel/
+ [2]: http://music.grantmuller.com/album/best-condition-ep
  [3]: http://stfunity.bandcamp.com/
  [4]: http://ascendedmasters.bandcamp.com/album/megaproject-theme
  [5]: http://ascendedmasters.bandcamp.com/album/ascended-masters
