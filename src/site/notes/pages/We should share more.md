@@ -1,11 +1,6 @@
 ---
-{"title":"We Should Share More","dg-publish":true,"date":"2021-11-09T19:06:07-05:00","lastmod":"2022-09-26T14:26:20-04:00","permalink":"/pages/we-should-share-more/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/pages/we-should-share-more/","dgPassFrontmatter":true}
 ---
-
-
-# We Should Share More
-
-<small>October 2021</small>
 
 A week ago I volunteered at a place called Love Beyond Walls. This was my second time volunteering with them, and I got to help a group of guys build portable showers out of 250 gallon drums. While working the guys got to talking. One of them mentioned that he'd run his first marathon this year. He commented on how hard it was but that he'd been inspired before his last birthday to run a marathon because a lot of people were running a heck of a lot more than that. He told his friends that to get through it, he spent a lot of time talking to God. It reminded me of one of my favorite thoughts from running philosopher T.J. Pitts: "Nobody's an atheist at mile 85 of 100".
 
