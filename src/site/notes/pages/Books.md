@@ -33,6 +33,7 @@
 ## Still Left to Read
 - [[The Gift of Fear\|The Gift of Fear]]
 - Confident Mind
+- Chip War
 - Mario Puzo 
 - The Infinity of Lists - Umberto Eco
 - The illuminatus trilogy - Robert Anton Wilson
