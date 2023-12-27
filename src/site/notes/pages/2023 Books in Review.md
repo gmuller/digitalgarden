@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/pages/2023-books-in-review/","dgPassFrontmatter":true}
 ---
 
-2023 Books in Review
+# 2023 Books in Review
 
 I spend a lot of time on planes traveling for work, or on long haul runs where I occasionally need someone else's thoughts in my ears to keep me company. I read or listened to a lot of books this year, and when I made a list (inspired by Brett Bagley), I picked up on a few themes. Here is a thematic breakdown, in order of the impact they had on me:
 
