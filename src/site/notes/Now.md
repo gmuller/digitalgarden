@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"dg-permalink":"now","permalink":"/now/","created":"2022-04-13T21:31:28.000-04:00","updated":"2023-02-11T11:30:29.000-05:00"}
+{"dg-publish":true,"dg-permalink":"now","permalink":"/now/","created":"2022-04-13T21:31:28.000-04:00","updated":"2023-12-27T16:41:38.218-05:00"}
 ---
-
-# Now
 
 Still raising two kids with my wonderful wife in the metro Atlanta area. They're getting older, and so am I. 
 
