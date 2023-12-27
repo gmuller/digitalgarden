@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-permalink":"thirty-worms","permalink":"/thirty-worms/","created":"2022-01-07T20:24:09.000-05:00","updated":"2023-12-27T16:46:26.241-05:00"}
+{"dg-publish":true,"dg-permalink":"thirty-worms","permalink":"/thirty-worms/","created":"2022-01-07T20:24:09.000-05:00","updated":"2023-12-27T16:53:27.043-05:00"}
 ---
 
 "We saved thirty worms, daddy!" Freyja yelled to me as we came in the house from our rainy walk around the block. The clouds hadn't done more than dribble as we strolled, stopping every few paces to pick up a worm out of the street and throw it back into the grass. My daughter imagined we were saving lives. I waffled between apathy, hoping she wouldn't notice the next one, and assisting with a pointy stick when one of them was just too damned slippery to pick up with her fingers.
 
-"Why are there so many worms out, daddy?" She asked.
+"Why are there so m'any worms out, daddy?" She asked.
 
 I explained what I knew about worm behavior to Freyja. I explained that just before it rains, sensing that their homes were about to flood, they wiggle up out of their holes and look for dry ground. Then, when it starts to rain they get washed out into the gutter, only to be washed down a storm drain or end up as a smear on the road. As she picked up worm number thirty one with her bare hands and tossed it into a flower bed beneath a tilted mailbox, she explained with satisfaction that she was putting them back in their homes. She was saving their lives.
 
