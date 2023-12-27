@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"dg-permalink":"thirty-worms","permalink":"/thirty-worms/","created":"2022-01-07T20:24:09.000-05:00","updated":"2022-12-01T09:44:47.000-05:00"}
+{"dg-publish":true,"dg-permalink":"thirty-worms","permalink":"/thirty-worms/","created":"2022-01-07T20:24:09.000-05:00","updated":"2023-12-27T16:46:26.241-05:00"}
 ---
-
-# Thirty Worms
 
 "We saved thirty worms, daddy!" Freyja yelled to me as we came in the house from our rainy walk around the block. The clouds hadn't done more than dribble as we strolled, stopping every few paces to pick up a worm out of the street and throw it back into the grass. My daughter imagined we were saving lives. I waffled between apathy, hoping she wouldn't notice the next one, and assisting with a pointy stick when one of them was just too damned slippery to pick up with her fingers.
 
