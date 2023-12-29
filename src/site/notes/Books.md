@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"books","permalink":"/books/","created":"2021-12-12T09:57:16.000-05:00","updated":"2023-12-29T10:51:35.790-05:00"}
+{"dg-publish":true,"dg-permalink":"books","permalink":"/books/","created":"2021-12-12T09:57:16.000-05:00","updated":"2023-12-29T10:54:44.714-05:00"}
 ---
 
 ## Yearly Reflections
@@ -23,7 +23,7 @@
 - [Readng](https://beta.readng.co/dashboard)
 - [Book Marks](https://bookmarks.reviews)
 
-## Some books I'd Like to Read
+## Some books I'd Like to Read or Re-Read
 - [[The Gift of Fear\|The Gift of Fear]]
 - Confident Mind
 - Chip War
