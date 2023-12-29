@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"dg-permalink":"music","permalink":"/music/","created":"2022-08-06T07:58:04.000-04:00","updated":"2022-08-06T07:58:04.000-04:00"}
+{"dg-publish":true,"dg-permalink":"music","permalink":"/music/","created":"2022-08-06T07:58:04.000-04:00","updated":"2023-12-29T17:49:04.690-05:00"}
 ---
 
-# Music
 ## Solo
 ### [Tidal Progressions](https://soundcloud.com/tidal-progressions?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) 2015
 ### [Cog And Flywheel][1] 2005
