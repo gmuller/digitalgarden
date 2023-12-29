@@ -1,9 +1,7 @@
 ---
-{"dg-publish":true,"dg-permalink":"seven-languages-in-seven-weeks","permalink":"/seven-languages-in-seven-weeks/","title":"Seven Languages in Seven Weeks","created":"2022-04-19T14:14:29.000-04:00","updated":"2022-10-21T20:26:59.000-04:00"}
+{"dg-publish":true,"dg-permalink":"seven-languages-in-seven-weeks","permalink":"/seven-languages-in-seven-weeks/","title":"Seven Languages in Seven Weeks","created":"2022-04-19T14:14:29.000-04:00","updated":"2023-12-29T10:52:46.416-05:00"}
 ---
 
-
-# Seven Languages in Seven Weeks
 ## Introduction
 
 Think about the way you think. Think about that thought, and this one. Did you think using words? Did you see the words? Sound them out mentally? If someone asked you describe yourself, you would probably think of a series of adjectives (at least if you're an English speaker).
