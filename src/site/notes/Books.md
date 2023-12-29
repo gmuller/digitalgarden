@@ -1,20 +1,13 @@
 ---
-{"dg-publish":true,"dg-permalink":"books","permalink":"/books/","created":"2021-12-12T09:57:16.000-05:00","updated":"2023-01-23T09:45:06.000-05:00"}
+{"dg-publish":true,"dg-permalink":"books","permalink":"/books/","created":"2021-12-12T09:57:16.000-05:00","updated":"2023-12-29T10:51:35.790-05:00"}
 ---
 
-# Books
-## Currently Reading
-- [[Conversations - Steve Reich\|Conversations - Steve Reich]]
-- [[Invisible Cities - Italo Calvino\|Invisible Cities - Italo Calvino]]
-
+## Yearly Reflections
+- [[2023 Books in Review\|2023 Books in Review]]
 ## Books I Have Read and Wrote Something About
 - [[Seven Languages in Seven Weeks\|Seven Languages in Seven Weeks]]
 - [[Japan At War\|Japan At War]]
 - [[Zen Flesh, Zen Bones\|Zen Flesh, Zen Bones]]
-
-## Books I've read
-- [[Zen and the Art of Motorcycle Maintenance\|Zen and the Art of Motorcycle Maintenance]]
-
 ## Tools to Find New Books to Read
 - [A Book Like Foo](https://abooklikefoo.com)
 - [Reddit Reads](https://www.redditreads.com/r/all?year=2021)
@@ -30,7 +23,7 @@
 - [Readng](https://beta.readng.co/dashboard)
 - [Book Marks](https://bookmarks.reviews)
 
-## Still Left to Read
+## Some books I'd Like to Read
 - [[The Gift of Fear\|The Gift of Fear]]
 - Confident Mind
 - Chip War
