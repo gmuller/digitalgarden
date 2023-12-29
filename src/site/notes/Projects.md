@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"dg-permalink":"projects","permalink":"/projects/","created":"2022-08-06T07:58:04.000-04:00","updated":"2022-08-06T07:58:04.000-04:00"}
+{"dg-publish":true,"dg-permalink":"projects","permalink":"/projects/","created":"2022-08-06T07:58:04.000-04:00","updated":"2023-12-29T17:26:12.627-05:00"}
 ---
 
-# Projects
-[Game of Life Sequencer](https://github.com/gmuller/golsequencer)
-[Harmonic Table](https://github.com/gmuller/harmonictable)
+## Old Software Projects 
+- [Game of Life Sequencer](https://github.com/gmuller/golsequencer)
+- [Harmonic Table](https://github.com/gmuller/harmonictable)
+- [TodoCL](https://github.com/gmuller/todo-cl)
 
-Schwinn Prelude Redux
+## Random
+- Schwinn Prelude Redux - I restored an old steel bike with my father-in-law and wrote a series of posts about it many years ago. I intend to restore those posts at some point. 
 
-[TodoCL](https://github.com/gmuller/todo-cl)
