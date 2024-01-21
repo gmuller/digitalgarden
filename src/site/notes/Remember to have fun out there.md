@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"remembertohavefun","permalink":"/remembertohavefun/","created":"2022-08-06T07:58:04.000-04:00","updated":"2023-12-27T16:55:07.594-05:00"}
+{"dg-publish":true,"permalink":"/remember-to-have-fun-out-there/","created":"2022-08-06T07:58:04.000-04:00","updated":"2023-12-29T17:56:48.591-05:00"}
 ---
 
 I’m about a mile into my run in the neighborhood today, waiting at an intersection for a car to pass when an old navy blue pickup truck slows to a stop beside me. An even older man with gray and white hair spilling out of what had to be a 30 year old Braves cap rolls down the window. “Hey, can you do me a favor?”
