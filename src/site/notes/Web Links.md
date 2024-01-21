@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/web-links/","created":"2022-08-06T07:58:04.000-04:00","updated":"2023-12-29T17:46:01.105-05:00"}
+{"dg-publish":true,"permalink":"/web-links/","created":"2022-08-06T07:58:04.000-04:00","updated":"2024-01-07T17:49:23.000-05:00"}
 ---
 
 ## Inspiration
@@ -14,6 +14,7 @@
 - [Ask a Librarian](https://ask.loc.gov/?utm_campaign=Recomendo&utm_medium=email&utm_source=Revue%20newsletter)
 	- Can't find a source? Someone at the Library of Congress will hook you up
 - [Unsplash](https://unsplash.com/backgrounds/nature) Images and such
+- [Pexels](https://www.pexels.com/?utm_source=substack&utm_medium=email)
 - [Artvee](https://artvee.com)
 - [YouTube Video Summaries with Eightify AI ChatGPT](https://www.eightify.app)
 - [Pixabay](https://pixabay.com) for free images and sounds
