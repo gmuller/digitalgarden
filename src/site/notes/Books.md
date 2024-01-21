@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"books","permalink":"/books/","created":"2021-12-12T09:57:16.000-05:00","updated":"2024-01-21T18:49:49.526-05:00"}
+{"dg-publish":true,"dg-permalink":"books","permalink":"/books/","created":"2021-12-12T09:57:16.000-05:00","updated":"2024-01-21T18:50:06.983-05:00"}
 ---
 
 ## Yearly Reflections
@@ -9,7 +9,6 @@
 - [[Japan At War\|Japan At War]]
 - [[Zen Flesh, Zen Bones\|Zen Flesh, Zen Bones]]
 - [[Going Infinite - Michael Lewis\|Going Infinite - Michael Lewis]]
-
 ## Books I've Read
 
 - [[2023 Books in Review\|2023 Books in Review]]
