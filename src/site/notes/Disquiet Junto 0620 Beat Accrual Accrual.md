@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/disquiet-junto-0620-beat-accrual-accrual/","created":"2024-01-21T20:56:21.806-05:00","updated":"2024-01-21T20:58:21.962-05:00"}
+---
+
+[Assignment](https://disquiet.com/2023/11/16/disquiet-junto-project-0620-beat-accrual-accrual/)
+
+I struggled more than I expected to with this assignment. I tried out a variety of things but wasn’t feeling any of it. While listening to [@HippiesWearMuzzles](https://llllllll.co/u/hippieswearmuzzles) Euclidean Dub I started thinking about creepy doctors, and couldn’t get the idea out of my head. I wrote a script and put it the track, adding foley elements to give it some atmosphere. I was also reading a lot to the kids and “doing the voices” this weekend so I was already in that kind of mode. This voice stuff is uncharacteristic for me, but I had fun!
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1669508172&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/grantlucasmuller" title="grant lucas muller" target="_blank" style="color: #cccccc; text-decoration: none;">grant lucas muller</a> · <a href="https://soundcloud.com/grantlucasmuller/please-try-to-relax-lee-evans-euclidean-dub-story-disquiet0620" title="Please, Try to Relax - Lee Evans Euclidean Dub Story [disquiet0620]" target="_blank" style="color: #cccccc; text-decoration: none;">Please, Try to Relax - Lee Evans Euclidean Dub Story [disquiet0620]</a></div>
