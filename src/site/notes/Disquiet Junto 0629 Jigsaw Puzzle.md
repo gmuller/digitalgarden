@@ -1,6 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/disquiet-junto-0629-jigsaw-puzzle/","created":"2024-01-21T13:56:07.000-05:00","updated":"2024-01-21T13:59:12.000-05:00"}
+{"dg-publish":true,"permalink":"/disquiet-junto-0629-jigsaw-puzzle/","created":"2024-01-21T13:56:07.000-05:00","updated":"2024-01-21T21:03:55.869-05:00"}
 ---
+
+
+[Assignment](https://disquiet.com/2024/01/18/disquiet-junto-project-0629-jigsaw-logic/)
 
 I tried to think about what putting a puzzle together is like. You dump all the pieces on a table. You start looking for the edges, then put together continguous sections. You come back to the sections you have a good start on and try to connect them. You end up looking at a single piece over and over a few times to try a fit. What does that look like in audio?
 
