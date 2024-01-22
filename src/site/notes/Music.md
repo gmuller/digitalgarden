@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"music","permalink":"/music/","created":"2022-08-06T07:58:04.000-04:00","updated":"2023-12-29T17:49:04.690-05:00"}
+{"dg-publish":true,"dg-permalink":"music","permalink":"/music/","created":"2022-08-06T07:58:04.000-04:00","updated":"2024-01-21T20:55:20.207-05:00"}
 ---
 
 ## Solo
@@ -20,6 +20,15 @@
 ### [How The Story Goes][8] 2013
 ### [King Richard][7] 2012
 ### [Snowbound][6] 2011
+
+---
+## [Disquiet Junto](https://disquiet.com/2012/01/27/the-disquiet-junto/)
+
+- [[Disquiet Junto 0619 Beat Accrual\|Disquiet Junto 0619 Beat Accrual]]
+- [[Disquiet Junto 0620 Beat Accrual Accrual\|Disquiet Junto 0620 Beat Accrual Accrual]]
+- [[Disquiet Junto 0621 The Leftovers\|Disquiet Junto 0621 The Leftovers]]
+- [[Disquiet Junto 0628 Alchemical Brothers\|Disquiet Junto 0628 Alchemical Brothers]]
+- [[Disquiet Junto 0629 Jigsaw Puzzle\|Disquiet Junto 0629 Jigsaw Puzzle]]
 
 ---
 ## With STFUnity
