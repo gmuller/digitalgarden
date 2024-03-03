@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/web-links/","created":"2022-08-06T07:58:04.000-04:00","updated":"2024-01-07T17:49:23.000-05:00"}
+{"dg-publish":true,"permalink":"/web-links/","created":"2022-08-06T07:58:04.000-04:00","updated":"2024-02-09T17:21:18.000-05:00"}
 ---
 
 ## Inspiration
@@ -18,6 +18,7 @@
 - [Artvee](https://artvee.com)
 - [YouTube Video Summaries with Eightify AI ChatGPT](https://www.eightify.app)
 - [Pixabay](https://pixabay.com) for free images and sounds
+- NearbyWiki.org
 
 ## AI Tools
 - [Riffusion](https://www.riffusion.com/about)
