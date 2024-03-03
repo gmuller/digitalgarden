@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"dg-permalink":"books","permalink":"/books/","created":"2021-12-12T09:57:16.000-05:00","updated":"2024-01-21T18:50:06.983-05:00"}
+{"dg-publish":true,"dg-permalink":"books","permalink":"/books/","created":"2021-12-12T09:57:16.000-05:00","updated":"2024-03-03T09:50:17.235-05:00"}
 ---
 
+## Reading Now
+- The Godfather - Mario Puzo 
+- The Wolf Age - Tore Skeie
 ## Yearly Reflections
 - [[2023 Books in Review\|2023 Books in Review]]
 ## Books I Have Read and Wrote Something About
@@ -28,13 +31,11 @@
 - [Italic Type](https://www.italictype.com/app/#/home)
 - [Readng](https://beta.readng.co/dashboard)
 - [Book Marks](https://bookmarks.reviews)
-
 ## Some books I'd Like to Read or Re-Read
 - [[The Gift of Fear\|The Gift of Fear]]
 - [The Theory That Would Not Die: How Bayes' Rule Cracked the Enigma Code, Hunted Down Russian Submarines, and Emerged Triumphant from Two Centuries of Controversy](https://www.amazon.com/gp/product/0300169698/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0300169698&linkCode=as2&tag=ablf-20)
 - Confident Mind
 - Chip War
-- The Godfather - Mario Puzo 
 - The Infinity of Lists - Umberto Eco
 - The Fifth Discipline
 - The Story of Civilization - Durant
@@ -66,5 +67,9 @@
 - [Other Minds](https://www.amazon.com/Other-Minds-Octopus-Origins-Consciousness-ebook/dp/B01FQRPIIA/)
 - The books of Jacob Olga Tokaczuk
 - Jeremy Rifkin Time Wars
+- For Better Storytelling 
+	- [Back of the Napkin](https://www.amazon.com/dp/1591842697?ref_=cm_sw_r_cp_ud_dp_A7QR3M2XEJAPYB0MEK5G)
+	-  Bird by Bird
+	- Meander, Spiral, Explode
 
 
