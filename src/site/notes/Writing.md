@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"writing","permalink":"/writing/","created":"2022-04-05T22:27:10.000-04:00","updated":"2022-11-29T21:41:53.000-05:00"}
+{"dg-publish":true,"dg-permalink":"writing","permalink":"/writing/","created":"2022-04-05T22:27:10.000-04:00","updated":"2024-03-17T10:10:56.741-04:00"}
 ---
 
 # Essays
@@ -16,6 +16,7 @@
 
 # Short Posts
 - [[To Run Easy or Hard\|To Run Easy or Hard]]
+- [[Effective Exploration\|Effective Exploration]]
 
 # Race Reports
 - [[I Ran 250 Miles Across Arizona in 4 Days\|I Ran 250 Miles Across Arizona in 4 Days]]
