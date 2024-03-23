@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"dg-permalink":"writing","permalink":"/writing/","created":"2022-04-05T22:27:10.000-04:00","updated":"2024-03-17T10:10:56.741-04:00"}
+{"dg-publish":true,"dg-permalink":"writing","permalink":"/writing/","created":"2022-04-05T22:27:10.000-04:00","updated":"2024-03-23T18:51:51.440-04:00"}
 ---
 
 # Essays
 
-- [[On Identity\|On Identity]]
 - [[Why\|Why]]
 - [[Thirty Worms\|Thirty Worms]]
 - [[As Good As You Are Right Now\|As Good As You Are Right Now]]
