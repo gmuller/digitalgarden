@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/effective-exploration/","created":"2024-03-17T09:31:07.227-04:00","updated":"2024-03-17T10:23:38.941-04:00"}
+{"dg-publish":true,"permalink":"/effective-exploration/","created":"2024-03-17T10:23:38.000-04:00","updated":"2024-03-17T10:23:38.000-04:00"}
 ---
 
 [An article about 50 Software Defined Radio projects](https://blinry.org/50-things-with-sdr/) hit hackernews on ([[journals/2024-03-17\|2024-03-17]]), and it sent me down the rabbit hole of old links and ideas. 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"as-good-as-you-are-right-now","permalink":"/as-good-as-you-are-right-now/","created":"2021-04-28T09:25:31.000-04:00","updated":"2022-12-01T09:45:14.000-05:00"}
+{"dg-publish":true,"dg-permalink":"as-good-as-you-are-right-now","permalink":"/as-good-as-you-are-right-now/","created":"2022-12-01T09:45:14.000-05:00","updated":"2022-12-01T09:45:14.000-05:00"}
 ---
 
 # As Good As You Are Right Now

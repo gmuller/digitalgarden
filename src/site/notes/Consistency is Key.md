@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/consistency-is-key/","created":"2021-09-02T21:41:15.000-04:00","updated":"2024-03-05T21:08:20.656-05:00"}
+{"dg-publish":true,"permalink":"/consistency-is-key/","created":"2024-03-05T21:08:20.000-05:00","updated":"2024-03-05T21:08:20.000-05:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/do-2-a-day-sessions-to-increase-stimulus/","created":"2021-11-16T21:09:21.000-05:00","updated":"2024-03-05T20:35:34.165-05:00"}
+{"dg-publish":true,"permalink":"/do-2-a-day-sessions-to-increase-stimulus/","created":"2024-03-05T20:35:34.000-05:00","updated":"2024-03-05T20:35:34.000-05:00"}
 ---
 
 Do 2 runs in a day runs to fit your schedule and to provide more stimulus. These sessions should be 30 minutes ([[Train for at least 30 minutes\|Train for at least 30 minutes]]). Do not split your weekly long run into 2 sessions, as this run provides special stimulus that cannot be replaced by two shorter runs.

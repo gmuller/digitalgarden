@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/workouts-for-trailrunning/","created":"2022-08-06T07:58:04.000-04:00","updated":"2024-03-05T20:35:54.294-05:00"}
+{"dg-publish":true,"permalink":"/workouts-for-trailrunning/","created":"2024-03-05T20:35:54.000-05:00","updated":"2024-03-05T20:35:54.000-05:00"}
 ---
 
 ## 60 Second Hill Repeats

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/japan-at-war/","created":"2022-08-06T07:58:04.000-04:00","updated":"2023-12-29T10:53:13.252-05:00"}
+{"dg-publish":true,"permalink":"/japan-at-war/","created":"2023-12-29T10:53:13.000-05:00","updated":"2023-12-29T10:53:13.000-05:00"}
 ---
 
 # Japan At War

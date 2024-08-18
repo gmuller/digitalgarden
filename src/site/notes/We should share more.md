@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/we-should-share-more/","created":"2023-12-23T09:17:35.408-05:00","updated":"2023-12-27T16:39:54.587-05:00"}
+{"dg-publish":true,"permalink":"/we-should-share-more/","created":"2023-12-27T16:39:54.000-05:00","updated":"2023-12-27T16:39:54.000-05:00"}
 ---
 
 A week ago I volunteered at a place called Love Beyond Walls. This was my second time volunteering with them, and I got to help a group of guys build portable showers out of 250 gallon drums. While working the guys got to talking. One of them mentioned that he'd run his first marathon this year. He commented on how hard it was but that he'd been inspired before his last birthday to run a marathon because a lot of people were running a heck of a lot more than that. He told his friends that to get through it, he spent a lot of time talking to God. It reminded me of one of my favorite thoughts from running philosopher T.J. Pitts: "Nobody's an atheist at mile 85 of 100".

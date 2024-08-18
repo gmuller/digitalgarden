@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"books","permalink":"/books/","created":"2021-12-12T09:57:16.000-05:00","updated":"2024-03-03T09:50:17.235-05:00"}
+{"dg-publish":true,"dg-permalink":"books","permalink":"/books/","created":"2024-04-14T18:35:22.000-04:00","updated":"2024-04-14T18:35:22.000-04:00"}
 ---
 
 ## Reading Now
@@ -23,6 +23,7 @@
 - [Escape your bubble](https://abooklike.foo/escape)
 - [OpenLibrary](https://books-search.typesense.org)
 - [Sidewise Award for Alternate History](https://en.wikipedia.org/wiki/Sidewise_Award_for_Alternate_History?utm_campaign=Recomendo&utm_medium=email&utm_source=Revue%20newsletter)
+- [Standard Ebooks](https://standardebooks.org/ebooks)
 
 ## Places to Find Books You Can Carry in Your Hand
 - [IndieBound.org](https://www.indiebound.org)

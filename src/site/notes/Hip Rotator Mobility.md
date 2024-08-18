@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hip-rotator-mobility/","created":"2021-12-21T13:10:45.000-05:00","updated":"2024-03-05T21:02:01.789-05:00"}
+{"dg-publish":true,"permalink":"/hip-rotator-mobility/","created":"2024-03-05T21:02:01.000-05:00","updated":"2024-03-05T21:02:01.000-05:00"}
 ---
 
 status: #review 

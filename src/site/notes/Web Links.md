@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/web-links/","created":"2022-08-06T07:58:04.000-04:00","updated":"2024-03-17T17:22:03.644-04:00"}
+{"dg-publish":true,"permalink":"/web-links/","created":"2024-03-25T14:25:28.000-04:00","updated":"2024-03-25T14:25:28.000-04:00"}
 ---
 
 ## Inspiration
@@ -20,6 +20,7 @@
 - [Pixabay](https://pixabay.com) for free images and sounds
 - NearbyWiki.org
 - [Similar Songs Finder | Spotify Playlist Generator](https://www.similarsongsfinder.com)
+- [BookPecker.com: 14509 books summarized in 5 bullet points](https://bookpecker.com/?utm_source=substack&utm_medium=email)
 
 ## AI Tools
 - [Riffusion](https://www.riffusion.com/about)

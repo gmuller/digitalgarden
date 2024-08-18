@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/disquiet-junto-0619-beat-accrual/","created":"2024-01-21T20:55:31.374-05:00","updated":"2024-01-21T20:56:52.805-05:00"}
+{"dg-publish":true,"permalink":"/disquiet-junto-0619-beat-accrual/","created":"2024-01-21T20:56:52.000-05:00","updated":"2024-01-21T20:56:52.000-05:00"}
 ---
 
 

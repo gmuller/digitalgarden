@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"meaninginrepetition","permalink":"/meaninginrepetition/","created":"2020-11-23T08:01:24.000-05:00","updated":"2022-09-25T21:25:22.000-04:00"}
+{"dg-publish":true,"dg-permalink":"meaninginrepetition","permalink":"/meaninginrepetition/","created":"2022-09-25T21:25:22.000-04:00","updated":"2022-09-25T21:25:22.000-04:00"}
 ---
 
 # Meaning In Repetition

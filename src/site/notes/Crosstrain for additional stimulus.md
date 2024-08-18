@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/crosstrain-for-additional-stimulus/","created":"2021-11-23T20:58:59.000-05:00","updated":"2024-03-05T20:36:36.251-05:00"}
+{"dg-publish":true,"permalink":"/crosstrain-for-additional-stimulus/","created":"2024-03-05T20:36:36.000-05:00","updated":"2024-03-05T20:36:36.000-05:00"}
 ---
 
 

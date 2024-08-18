@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cruel-jewel-50-2017-race-report/","title":"Cruel Jewel 50: 2017","created":"2022-04-19T14:14:29.000-04:00","updated":"2022-09-25T22:10:04.000-04:00"}
+{"dg-publish":true,"permalink":"/cruel-jewel-50-2017-race-report/","title":"Cruel Jewel 50: 2017","created":"2022-09-25T22:10:04.000-04:00","updated":"2022-09-25T22:10:04.000-04:00"}
 ---
 
 
