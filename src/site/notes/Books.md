@@ -1,23 +1,19 @@
 ---
-{"dg-publish":true,"dg-permalink":"books","permalink":"/books/","created":"2024-04-14T18:35:22.000-04:00","updated":"2024-04-14T18:35:22.000-04:00"}
+{"dg-publish":true,"dg-permalink":"books","permalink":"/books/","created":"2024-04-14T18:35:22.000-04:00","updated":"2024-08-25T08:17:57.630-04:00"}
 ---
 
 ## Reading Now
-- The Godfather - Mario Puzo 
-- The Wolf Age - Tore Skeie
+- Lonesome Dove
+- Rebel Yell 
+- The Art of Doing Science and Engineering
 ## Yearly Reflections
+- [[2024 Books in Review\|2024 Books in Review]]
 - [[2023 Books in Review\|2023 Books in Review]]
 ## Books I Have Read and Wrote Something About
 - [[Seven Languages in Seven Weeks\|Seven Languages in Seven Weeks]]
 - [[Japan At War\|Japan At War]]
 - [[Zen Flesh, Zen Bones\|Zen Flesh, Zen Bones]]
 - [[Going Infinite - Michael Lewis\|Going Infinite - Michael Lewis]]
-## Books I've Read
-
-- [[2023 Books in Review\|2023 Books in Review]]
-- This is how you lose the time war
-- The Art of Learning - Josh Waitzkin
-- 100's of other books, not listed here
 ## Tools to Find New Books to Read
 - [A Book Like Foo](https://abooklikefoo.com)
 - [Escape your bubble](https://abooklike.foo/escape)
