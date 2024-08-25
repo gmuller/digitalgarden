@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"now","permalink":"/now/","created":"2024-03-03T09:54:06.000-05:00","updated":"2024-08-25T08:20:46.913-04:00"}
+{"dg-publish":true,"dg-permalink":"now","permalink":"/now/","created":"2024-03-03T09:54:06.000-05:00","updated":"2024-08-25T08:29:01.185-04:00"}
 ---
 
 Still raising two kids with my wonderful wife in the metro Atlanta area. They're getting older, and so am I. 
@@ -13,12 +13,10 @@ In year 11 of ultrarunning. For the 6th year in a row I did not get into [WSER](
 - [Arkansas Traveller 100](http://www.runarkansas.com/AT100/ATmain.php)
 ## Music
 
-I've found an outlet in [disquiet junto](https://disquiet.com/2012/01/27/the-disquiet-junto/). Resetting this year and getting back to my drums more. Looking for the best snare to record on. 
+Mostly fiddling around with the [[Teenage Engineering EP-133\|Teenage Engineering EP-133]]. The kids like to goof off with it on the couch before bed. 
 ## Career
 
-Still solving water at Xylem as VP of Platform Strategy and Architecture. 
+I joined Irth Solutions this year as SVP of Engineering. 
 ## [[Books\|Books]]
 
-Still on my deep dive of Viking, Anglo-Saxon, and the Norman world. Just finished [[The Anglo-Saxons\|The Anglo-Saxons]] and [[The Children of Ash and Elm - Neil Price\|The Children of Ash and Elm - Neil Price]], just started [[The Wolf Age - Tore Skeie\|The Wolf Age - Tore Skeie]]. 
-
-For fiction I'm listening to [[The Godfather - Mario Puzo\|The Godfather - Mario Puzo]], read by Joe Mantegna.
+I've been on a Western binge this year. Read Cormac McCarthy's Border Trilogy, Blood Meridian, [[Empire of the Summer Moon - S.C. Gwynne\|Empire of the Summer Moon - S.C. Gwynne]]. I'm introducing a little Civil War history with S.C. Gwynne's biography of Stonewall Jackson, *Rebel Yell*. 
