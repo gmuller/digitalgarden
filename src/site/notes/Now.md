@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"now","permalink":"/now/","created":"2024-03-03T09:54:06.000-05:00","updated":"2024-03-03T09:54:06.000-05:00"}
+{"dg-publish":true,"dg-permalink":"now","permalink":"/now/","created":"2024-03-03T09:54:06.000-05:00","updated":"2024-08-25T08:20:46.913-04:00"}
 ---
 
 Still raising two kids with my wonderful wife in the metro Atlanta area. They're getting older, and so am I. 
@@ -7,11 +7,10 @@ Still raising two kids with my wonderful wife in the metro Atlanta area. They're
 
 In year 11 of ultrarunning. For the 6th year in a row I did not get into [WSER](wser.org), so still planning the year. I will probably run:
 
-- SweetH20 in March 2024 - committed 
-- Great Southern Endurance Run in May 2024 - committed
-- High Lonesome 100 (for the 5th time) - committed
-- No Business 100 (for the second time)?
-- Grindstone?
+- [SweetH20 - March 2024](https://ultrasignup.com/results_event.aspx?did=109964#id712633)
+- [Great Southern Endurance Run - May 2024](https://ultrasignup.com/results_event.aspx?did=109797#id712633)
+- High Lonesome 100 (for the 5th time) - DNF
+- [Arkansas Traveller 100](http://www.runarkansas.com/AT100/ATmain.php)
 ## Music
 
 I've found an outlet in [disquiet junto](https://disquiet.com/2012/01/27/the-disquiet-junto/). Resetting this year and getting back to my drums more. Looking for the best snare to record on. 
