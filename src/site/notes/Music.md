@@ -1,10 +1,12 @@
 ---
-{"dg-publish":true,"dg-permalink":"music","permalink":"/music/","created":"2024-01-21T20:55:20.000-05:00","updated":"2024-08-27T16:20:14.341-04:00"}
+{"dg-publish":true,"dg-permalink":"music","permalink":"/music/","created":"2024-01-21T20:55:20.000-05:00","updated":"2024-08-27T16:20:41.889-04:00"}
 ---
 
 ## Solo
 ### [Tidal Progressions](https://soundcloud.com/tidal-progressions?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) 2015
+
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=4104433129/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://grantmuller.bandcamp.com/album/cog-and-flywheel">Cog and Flywheel by grant lucas muller</a></iframe>
+
 ### [Best Condition EP][2] 2003
 
 ---
