@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/everything-i-know-about-running/","created":"2024-03-05T21:08:30.000-05:00","updated":"2024-03-05T21:08:30.000-05:00"}
+{"dg-publish":true,"permalink":"/everything-i-know-about-running/","created":"2024-03-05T21:08:30.000-05:00","updated":"2024-08-25T08:42:28.073-04:00"}
 ---
 
 ## Getting Started
@@ -50,3 +50,5 @@ I really like [[40 Workouts - Dan John\|40 Workouts - Dan John]]
 - [[Mystery Mountain Marathon\|Mystery Mountain Marathon]]
 - [[Run the ATL\|Run the ATL]]
 - [[UTMB\|UTMB]]
+- [[Cocodona 250\|Cocodona 250]]
+- The Bear 100x
