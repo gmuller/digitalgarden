@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"casio-mg-510-midi-guitar","permalink":"/casio-mg-510-midi-guitar/","title":"Casio MG-510 Midi Guitar","tags":["gear","music"],"created":"2022-09-25T11:18:17.000-04:00","updated":"2024-09-15T18:26:29.469-04:00"}
+{"dg-publish":true,"dg-permalink":"casio-mg-510-midi-guitar","permalink":"/casio-mg-510-midi-guitar/","title":"Casio MG-510 Midi Guitar","tags":["gear","music"],"created":"2022-09-25T11:18:17.000-04:00","updated":"2024-09-16T14:41:56.850-04:00"}
 ---
 
 
@@ -14,15 +14,10 @@ I finally got around to repairing one of these guitars, and the process is so si
 # Things You Will Need
 
   * 6 x 1 uF non-polarized electrolytic capacitors
-
   * 4 x 10 uF polarized electrolytic capacitors
-
   * 1 x 22 uF polarized electrolytic capacitor
-
   * 1 x 4.7 uF polarized electrolytic capacitor
-
   * 1 x 33 uF polarized electrolytic capacitors
-
   * Anything you need to unsolder old capacitors and solder on new ones
 
 # Crack Open the Back and Take a Look at the Boards
@@ -46,11 +41,8 @@ You'll see two double-stacked and plugged into three header cables.
 **Top of PCB 2**
 
   * C4, C22, C29, C12: _10 uF polarized electrolytic_
-
   * C30: 22 _uF polarized electrolytic_
-
   * C31: 4.7 _uF polarized electrolytic_
-
   * _C48: 33 _uF polarized electrolytic__
 
 Basically, for both boards, replace the capacitors with the caps above using capacitors of identical value. It shouldn't matter if you use polarized caps for the entire repair, since the frequencies are not high enough to affect response times, but use non-polarized where needed above if possible.
