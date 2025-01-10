@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-permalink":"high-lonesome-2017","permalink":"/high-lonesome-2017/","title":"High Lonesome 100: 2017","created":"2017-08-07T10:26:40+00:00","updated":"2022-09-25T22:10:23.000-04:00"}
+{"dg-publish":true,"dg-permalink":"high-lonesome-2017","permalink":"/high-lonesome-2017/","title":"High Lonesome 100: 2017","created":"2017-08-07T10:26:40+00:00","updated":"2025-01-10T17:38:17.736-05:00"}
 ---
 
-# High Lonesome 100 - 2017 Race Report
+![HighLonesome2017Logo.png](/img/user/assets/HighLonesome2017Logo.png)
 
 We staggered up the last few steps in the dark to the top of Monarch on the Continental Divide trail. A relentless wind slapped me in the face, and kept on slapping. A chill burrowed into me despite the wool shirt, rain jacket, gloves and buff. I couldn't see more than three feet in front of me; it wasn't fog, we were standing in a cloud. I turned back to Aaron, now nothing more than a diffuse headlamp glow and a voice in the dark.
 
@@ -16,7 +16,7 @@ How the hell did we get here?
 
 Hundreds of people milled around in the dawn chill at the campground on Mt. Princeton. Pictures were taken; all smiles. Seventy-three of this crowd were preparing to toe the line of the inaugural High Lonesome 100. I was one of them.
 
-![Dudes][2]  
+![Dudes.png](/img/user/assets/Dudes.png)
 
 This was my first one hundred. Hundred-miler. Hundo. Finally hunting some big game. A few months prior I had no intention of being on the side of that mountain, but a [successful fifty-miler][3] seduced me to strike while the iron was hot. Besides, all my buddies would be there, and who doesn't like a little peer pressure. I got on the waiting list and within a few weeks I was committed.
 
@@ -34,15 +34,15 @@ It didn't take long for the going to get tough. Aaron and I ascended the trail i
 
 That was my excuse anytime I wanted to stop and breathe for a minute, and the scenery made it easy. We were surrounded by mountains, bare on top, green on their slopes, rocky at their bases. White snow pack salted the peaks, gathering in nooks and crannies between folds of the ridge. The melting ice formed a half dozen creeks, streams and waterfalls that poured off the sides of the mountain, rushing toward flatter terrain. It was a mountain paradise.
 
-![Mountain Paradise][4]  
+![MountainParadise.png](/img/user/assets/MountainParadise.png)
 
 It was also a struggle. We worked with the mountain; we slowed to its speed. It might be the altitude talking, but by the time I reached the top I no longer felt spent. There was peace up there that I cannot describe.
 
-![Peace up high][5]  
+![PeaceUpHigh.png](/img/user/assets/PeaceUpHigh.png)
 
 At the top, we looked down the side of the pass onto a steep jeep road. Perhaps a dozen rocky switchbacks wound their way downward toward our next aid station. If the previous five miles were toil, this was an effortless fall into a forested abyss. The scenery remained stunning, and with smiles on our faces we strode in to Antero aid.
 
-![Into the Basin][6]  
+![GoingDownMountain.png](/img/user/assets/GoingDownMountain.png)
 
 We made quick work here. The trail continued to descend out of Antero onto a roughshod jeep road. We passed several trucks on our way down. Several times the trail coincided with a melting snowpack stream; a taste of things to come.
 
@@ -66,7 +66,7 @@ Out and backs bend your mind. On the way out you might complain a little. Your w
 
 As we approached St Elmo, we caught up with Matt on his way out to Cottonwood. We did our best to lift his spirits without being dishonest about the beast in front of him. Forget the thin air and just keep moving. It was a struggle for everyone, and I know I learned something from it: on your way out, better to forget.
 
-![Approaching St. Elmo][7]  
+![ApproachingStElmo.png](/img/user/assets/ApproachingStElmo.png)
 
 After powdering my joints on the descent, we met our crew again at St. Elmo. I was burning up despite the dreary rain and stripped off some clothes. It was getting late; the sun would be down before we arrived at the next aid station, so we grabbed our night gear. A quick shoe change later and we were on our way.
 
@@ -138,7 +138,7 @@ Wait, I _had_ been there before!
 
 That broke the spell. I was on the return trail, the real homestretch! This was all ground I had covered before! If I'd done it once, I can do it again. The trail flattened out and I broke into a run. After passing through a cattle gate, I found myself in a field smattered with shrubs, on a flat, runnable trail. In the distance was the final aid station, Raspberry Gulch. Again.
 
-![Pacer Wife][9]  
+![PacerWife.png](/img/user/assets/PacerWife.png)
 
 At Raspberry Gulch my wife Cary was going to jump in with me to run it home. This was my first 100, and though Cary has always been the most important member of my crew, I wanted her to experience some the other side of the adventure on this very special run. In the weeks leading up to the race, Cary had joined me on the tail end of several long runs to get a feel for what it would be like. She'd done great! Her background as a gymnast and weightlifter lent itself to running, even if she is a self-avowed endurance hater.
 
@@ -164,7 +164,7 @@ In truth we were making good time. Until now we thought we'd be taking a 34+ hou
 
 Sprinting with everything left in the tank, Aaron and I crossed the finish line. I did more damage to my body in that minute than I had in over 34 hours of running. As I caught my breath, Caleb handed me a belt buckle and shook my hand. I'm not sure how many goofy smiles Caleb had already seen that day, but I hope mine was the goofiest. The buckle was beautiful. The finish was beautiful. That dirt patch I was sitting on was beautiful. The cheeseburger was beautiful. Oh god, I was tired.
 
-![At the finish][10]  
+![AtTheFinish.png](/img/user/assets/AtTheFinish.png)
 
 In the minutes after the finish nothing and everything happened. Some folks changed clothes, munched on food, and milled around talking about the race. I was spent. I walked back to the van, took off my shoes, and fell asleep in the passenger seat. Once I had released whatever mental control I had on my body, everything shut down.
 
@@ -172,4 +172,4 @@ But I swear I fell asleep with a smile on my face.
 
 Like never before the race was a team effort. Four runners from the flatlands of Georgia, their crew and pacers, and 100 mountain miles. The volunteers, aid station crews, the race director, the forest service, search and rescue, everyone who has to be involved to make these things work.
 
-I've never felt alone out there, on any race, but this one was special. Being out there with fellow runner Aaron, a 100 mile veteran made it seem easy. Being out there with our pacers Brooke and Wes, both 100 mile veterans made it seem easy. Being out there with my crew from Georgia made it seem easy. Most of all, being out there with my wife Cary, my constant supporter, crew, and now pacer made it seem easy. With all of that support, the mental part of the game takes care of itself. After that, its all physical, and that's the easy part.
+I've never felt alone out there, on any race, but this one was special. Being out there with fellow runner Aaron, a 100 mile veteran made it seem easy. Being out there with our pacers Brooke and Wes, both 100 mile veterans made it seem easy. Being out there with my crew from Georgia made it seem easy. Most of all, being out there with my wife Cary, my constant supporter, crew, and now pacer made it seem easy. With all of that support, the mental part of the game takes care of itself. After that, its all physical, and thats the easy part.
