@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"coffee-sack-sound-baffles","permalink":"/coffee-sack-sound-baffles/","title":"Coffee Sack Sound Baffles","tags":["featured","music"],"created":"2022-08-06T07:58:04.000-04:00","updated":"2025-01-10T17:16:51.890-05:00"}
+{"dg-publish":true,"dg-permalink":"coffee-sack-sound-baffles","permalink":"/coffee-sack-sound-baffles/","title":"Coffee Sack Sound Baffles","tags":["featured","music"],"created":"2011-12-28T03:53:53"}
 ---
 
 # Coffee Sack Sound Baffles
