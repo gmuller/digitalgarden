@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"dg-permalink":"200-miles-8-runners-31-hours-a-race-log","permalink":"/200-miles-8-runners-31-hours-a-race-log/","title":"200 Miles, 8 Runners, 31 Hours: A Race Log","tags":["training"],"created":"2010-10-18T12:00:55+00:00","updated":"2022-09-26T14:50:44.000-04:00"}
+{"dg-publish":true,"dg-permalink":"200-miles-8-runners-31-hours-a-race-log","permalink":"/200-miles-8-runners-31-hours-a-race-log/","title":"200 Miles, 8 Runners, 31 Hours: A Race Log","tags":["training"],"created":"2010-10-18T12:00:55+00:00","updated":"2025-01-10T18:07:37.261-05:00"}
 ---
-
-![Shirt][11]
 
 # Introduction
 
@@ -34,7 +32,7 @@ Everything was ready to g0.
 
 ## Race Week
 
-![Running][1]
+![PreraceTeam.png](/img/user/assets/PreraceTeam.png)
 
 It happened. I got sick. For the first time in a while I picked up some kind of upper respiratory/sinus bug and spent most of the week before race trying desperately to get rid of it. The thought of dropping out for my health crossed my mind, but I wasn’t about to leave the team short another member, and I was really looking forward to the run, so I told myself I’d suffer through it and deal with the consequences later.
 
@@ -44,7 +42,7 @@ Thursday we met to pile into a few vans and convene in Athens. I learned that tw
 
 ## And…Go!
 
-![Race][2]
+![Andi1.png](/img/user/assets/Andi1.png)
 
 It was still chilly as we made our way to the start line at 8:30 on Friday morning. The race started in waves, and we were set to begin with 6 other groups at 9:00. We milled around, warmed our hands, and waited anxiously to get going. Some of the other teams were sporting custom shirts. Twisted Blister had a fine logo, and the Chuck Norris team was sporting some hilarious Norrisisms on their van (Chuck Norris never sleeps, he waits…get it, its an overnight race). We decided as a team that next year we were doing something with puff paint on T-shirts, 80’s style. Maybe I’ll volunteer to run a leg dressed as Tom Cruise from Risky Business.
 
@@ -66,7 +64,7 @@ I don’t recall my time, but I think it was somewhere around 33 minutes, a perf
 
 ## A Long Rest
 
-![Rest][3]
+![Amanda1.png](/img/user/assets/Amanda1.png)
 
 Drew legged out the 6.5 miles quickly, something I’m sure the second van of team members were both thankful and rueful for. Waiting is the worst, until you have to run.
 
@@ -78,7 +76,7 @@ Andi, Drew and I went on ahead to Ma Ma Dots Country Store, where I bought some 
 
 We discovered the next difficulty in an overnight relay: _you can’t always sleep when you want_. In what would be our longest rest of the day we mostly sat around, milled about the country store, read a little, but barely slept. It wasn’t long until Alice was racing up the hill to hand off to Andi for leg 9, a 4.3 miler, and we were off again.
 
-![Alice][4]
+![Alice.png](/img/user/assets/Alice.png)
 
 At the next church parking lot there was a hilarious dachshund. When it spotted someone that hadn’t petted it yet it would run up and roll over waiting for a belly rub. I swear it must have made sure it met every human who entered that parking lot. Its the little things that make a trip like this fun.
 
@@ -92,6 +90,8 @@ About 4 miles in I was in the zone. Runner’s high. My legs felt great, it was 
 
 Feeding off the momentum from the rest of the team, and probably a little overconfident from my first run, I kicked this one off at pace I simply couldn’t sustain. It dawned on me that I hadn’t run anything longer than a 10K in several months. Later a team mate would ask what my longest run recently had been. 9 miles I would reply…earlier today…
 
+![Grant1.png](/img/user/assets/Grant1.png)
+
 Cresting what I thought was the last hill, the runner I passed earlier reminded me that the last few miles are all incline. Really? I don’t remember seeing that on the race map…Sure enough, just as I peeked over the top of this mini-hill I saw in front of me a joint-jarring downhill followed by a hill that looked more like a cliff.
 
 Aw, man.
@@ -104,7 +104,7 @@ I hobbled into the rest stop, not a church from what I remember, there were goat
 
 ## A Short Rest
 
-![Rest][6]
+![Drew1.png](/img/user/assets/Drew1.png)
 
 We met Drew at the next stop where there was space setup for people to sleep if they wanted. I milled around with the relay team as long as I could before grabbing my blanket and pillow and hitting the hay. At this point I was pretty unsure of myself. I felt sicker, I was cramping, and my head was killing me. I could tell this was worrying the other folks on the team as well, so I figured I better try and get some R&R; I had a few tough runs ahead before all was through.
 
@@ -121,7 +121,7 @@ I didn’t get much sleep, maybe 10 minutes before it was time to move on. We st
 
 I was craving a meal on a plate. Bacon and eggs. A big pork chop. My wife Cary and brother James were volunteering at leg 18 in the late hours of the night, so the best I could manage was to call in another banana and a long sleeve jersey to combat the cold. Cary suggested dark chocolate Hershey Kisses, which turned out to be a killer idea. I slept for a few more minutes when we arrived at our next check point. It was beginning to get cold out, so I bundled up and tried to sleep, but to no avail. I finally got out of the car and ambled around. That’s when I looked up.
 
-![More][7]
+![Davenport.png](/img/user/assets/Davenport.png)
 
 I don’t often get out of metropolitan areas, and when I do I rarely think to look at the night sky. I’m not sure why. When I’m at home I’m constantly looking up at night trying to find constellations and stars through the din of light cast by nearby cities. Out here in the middle of nowhere, where there were no streetlights or cities to drown them out, you can see hundreds of stars. The milky way is visible. Picking out constellations is child’s play. I spent about 20 minutes with my iPhone Sky Chart just finding stars, locating constellations I’d never seen before, and staring at the milky way. I was starting to feel better.
 
@@ -131,7 +131,7 @@ When the rest of the team had finished their treacherous run through the back wo
 
 ## Leg 19 – 4.5 Miles
 
-![More][8]
+![Jonathan1.png](/img/user/assets/Jonathan1.png)
 
 I’m not sure what it was that rejuvenated me. The wide open sky? A hug from my wife? The Hershey Kisses? Whatever it was I set out on this leg refreshed. The course started out of the North Georgia College and State University Campus, down a major road, and then off onto a side road that has never seen a yellow line. I put some space between me a few runners, then turned my headlamp off for a while to get distracted by the night sky. There wasn’t a cloud in sight and anytime the trees cleared I got a fantastic view of the heavens, perhaps just as my ancestors would have seen them. I have to admit, running close to barefoot in the pitch black night, hearing nothing but crickets and howling canines made me feel a bit primal. I should’ve howled.
 
@@ -141,7 +141,7 @@ I crested a short hill and made my way to yet another church parking lot. Convin
 
 ## A Short Nap
 
-![More][9]
+![JeremyRunning.png](/img/user/assets/JeremyRunning.png)
 
 After Drew handed off to our compatriots in Van 2, we rode on ahead and made camp in the car at Amicolola Falls, the site of our next major handoff. We intentionally rushed this ride to the next spot since we were all tired and finally felt that we could get some sleep. I’m not sure that all of us made it there without passing out.
 
@@ -163,7 +163,7 @@ Then I came to my last hurrah. 3 Miles of sawtooth road to the finish. I was dea
 
 ## To the End
 
-![More][10]
+![SouthernOdysseyEnd.png](/img/user/assets/SouthernOdysseyEnd.png)
 
 On the way to the next rest we stopped at a convenience store so we could pass some water off to Drew. He didn’t take much with him and it was a 5.6 mile leg so met him halfway for a refill. I took the time to stretch really well, change into some jeans and a t-shirt, and most importantly, suck down some food. I was feeling pretty good, being done with my contribution to the race, and collapsed in the back seat while Andi drove us to the next van meet up. I zoned out in the back seat and when I snapped to I was surprised to find myself back in Alpharetta again. We pulled into the stop and everyone tried to crash for a little while.
 
@@ -182,15 +182,3 @@ I learned a lot on this adventure. I learned that I do like playing with a team,
 **I like what I eat.** Nuts, seeds, bananas, pork rinds, jerky, dark chocolate. I popped the occasional gooey electrolyte snack from time to time, but stuck to real food as much as possible and avoided wheat entirely. My stomach felt satisfied and other than a little cramping during 1 leg, my muscles felt well-fed. Changes for next time? Bring some coconut oil (which I’ve been eating by the spoonful lately), and find a way to replace electrolytes on the sunnier runs. Sweet potatoes maybe? Gatorade makes my stomach hurt but perhaps I can imbibe it before or afterwards. We’ll see.
 
 That’s all folks, I’ll see you out there.
-
- [1]: /images/prerace_team.jpg
- [2]: /images/Andi.jpg
- [3]: /images/Amanda.jpg
- [4]: /images/Alice.jpg
- [5]: /images/Grant.jpg
- [6]: /images/Drew1.jpg
- [7]: /images/Jon.jpg
- [8]: /images/Jonathan2.jpg
- [9]: /images/Jeremy.jpg
- [10]: /images/PostRaceTeam.jpg
- [11]: /images/Grant1.jpg
