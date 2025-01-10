@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"200-miles-8-runners-31-hours-a-race-log","permalink":"/200-miles-8-runners-31-hours-a-race-log/","title":"200 Miles, 8 Runners, 31 Hours: A Race Log","tags":["training"],"created":"2022-09-26T14:50:44.000-04:00","updated":"2022-09-26T14:50:44.000-04:00"}
+{"dg-publish":true,"dg-permalink":"200-miles-8-runners-31-hours-a-race-log","permalink":"/200-miles-8-runners-31-hours-a-race-log/","title":"200 Miles, 8 Runners, 31 Hours: A Race Log","tags":["training"],"created":"2010-10-18T12:00:55+00:00","updated":"2022-09-26T14:50:44.000-04:00"}
 ---
 
 ![Shirt][11]

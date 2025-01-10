@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"high-lonesome-2017","permalink":"/high-lonesome-2017/","title":"High Lonesome 100: 2017","created":"2022-09-25T22:10:23.000-04:00","updated":"2022-09-25T22:10:23.000-04:00"}
+{"dg-publish":true,"dg-permalink":"high-lonesome-2017","permalink":"/high-lonesome-2017/","title":"High Lonesome 100: 2017","created":"2017-08-07T10:26:40+00:00","updated":"2022-09-25T22:10:23.000-04:00"}
 ---
 
 # High Lonesome 100 - 2017 Race Report

@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"dg-permalink":"coffee-sack-sound-baffles","permalink":"/coffee-sack-sound-baffles/","title":"Coffee Sack Sound Baffles","tags":["featured","music"],"created":"2011-12-28T03:53:53"}
+{"dg-publish":true,"dg-permalink":"coffee-sack-sound-baffles","permalink":"/coffee-sack-sound-baffles/","title":"Coffee Sack Sound Baffles","tags":["featured","music"],"created":"2011-12-28T03:53:53","updated":"2025-01-10T17:22:41.762-05:00"}
 ---
-
-# Coffee Sack Sound Baffles
 
 Several years ago I began acoustically treating my studio for recording drums and mixing. I did some research and pricing; it didn't take a spreadsheet to discover that acoustic paneling was both overpriced and hideous. I searched some more and devised a solution that was both economical and classy.
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"seven-languages-in-seven-weeks","permalink":"/seven-languages-in-seven-weeks/","title":"Seven Languages in Seven Weeks","created":"2023-12-29T10:52:46.000-05:00","updated":"2023-12-29T10:52:46.000-05:00"}
+{"dg-publish":true,"dg-permalink":"seven-languages-in-seven-weeks","permalink":"/seven-languages-in-seven-weeks/","title":"Seven Languages in Seven Weeks","created":"2012-09-24T12:00:28+00:00","updated":"2023-12-29T10:52:46.000-05:00"}
 ---
 
 ## Introduction

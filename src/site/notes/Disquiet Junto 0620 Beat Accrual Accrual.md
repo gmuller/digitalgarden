@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/disquiet-junto-0620-beat-accrual-accrual/","created":"2024-01-21T20:58:21.000-05:00","updated":"2024-01-21T20:58:21.000-05:00"}
+{"dg-publish":true,"permalink":"/disquiet-junto-0620-beat-accrual-accrual/","updated":"2024-01-21T20:58:21.000-05:00"}
 ---
 
 [Assignment](https://disquiet.com/2023/11/16/disquiet-junto-project-0620-beat-accrual-accrual/)

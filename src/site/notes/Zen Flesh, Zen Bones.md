@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zen-flesh-zen-bones/","created":"2023-12-29T17:48:21.000-05:00","updated":"2023-12-29T17:48:21.000-05:00"}
+{"dg-publish":true,"permalink":"/zen-flesh-zen-bones/","created":"2014-06-04T21:08:26-04:00","updated":"2023-12-29T17:48:21.000-05:00"}
 ---
 
 Zen is a frustrating and beautiful. Everything and nothing, what words can describe it? None. It is no thing. What is the work for "unask the question"? What is the word for no thing? These words cannot possibly exist really, the concept might, but words are a system, and zen is anything but. after reading zen flesh zen bones I'm left feeling like zen can be felt eveytwhere, or touched in every place, but cannot be spoken of. The koans, or little stories in 101 zen stories are intoxicating. At once meaningful and meaningless. Some are pithy, like the first story "A cup of tea", or fourteen, "a muddy road" (this latter passage I am particularly fond of, and I have learned a lot from it). 

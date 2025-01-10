@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"run-easy-or-hard","permalink":"/run-easy-or-hard/","created":"2023-12-29T17:27:05.000-05:00","updated":"2023-12-29T17:27:05.000-05:00"}
+{"dg-publish":true,"dg-permalink":"run-easy-or-hard","permalink":"/run-easy-or-hard/","updated":"2023-12-29T17:27:05.000-05:00"}
 ---
 
 A personality test.

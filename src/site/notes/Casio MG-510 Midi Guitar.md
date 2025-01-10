@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"casio-mg-510-midi-guitar","permalink":"/casio-mg-510-midi-guitar/","title":"Casio MG-510 Midi Guitar","tags":["gear","music"],"created":"2022-09-25T11:18:17.000-04:00","updated":"2024-09-16T14:46:36.898-04:00"}
+{"dg-publish":true,"dg-permalink":"casio-mg-510-midi-guitar","permalink":"/casio-mg-510-midi-guitar/","title":"Casio MG-510 Midi Guitar","tags":["gear","music"],"created":"2012-02-01T12:00:55+00:00","updated":"2024-09-16T14:46:36.898-04:00"}
 ---
 
 

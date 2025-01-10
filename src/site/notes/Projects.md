@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"projects","permalink":"/projects/","created":"2023-12-29T17:26:12.000-05:00","updated":"2023-12-29T17:26:12.000-05:00"}
+{"dg-publish":true,"dg-permalink":"projects","permalink":"/projects/","updated":"2023-12-29T17:26:12.000-05:00"}
 ---
 
 ## Old Software Projects 

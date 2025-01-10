@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/disquiet-junto-0621-the-leftovers/","created":"2024-01-21T21:00:29.000-05:00","updated":"2024-01-21T21:00:29.000-05:00"}
+{"dg-publish":true,"permalink":"/disquiet-junto-0621-the-leftovers/","updated":"2024-01-21T21:00:29.000-05:00"}
 ---
 
 [Assignment](https://disquiet.com/2023/11/23/disquiet-junto-project-0621-the-leftovers/)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/heart-rate-drift-test/","created":"2024-03-05T20:36:44.000-05:00","updated":"2024-03-05T20:36:44.000-05:00"}
+{"dg-publish":true,"permalink":"/heart-rate-drift-test/","updated":"2024-03-05T20:36:44.000-05:00"}
 ---
 
 

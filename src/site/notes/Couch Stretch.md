@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/couch-stretch/","created":"2024-03-05T20:39:50.000-05:00","updated":"2024-03-05T20:39:50.000-05:00"}
+{"dg-publish":true,"permalink":"/couch-stretch/","updated":"2024-03-05T20:39:50.000-05:00"}
 ---
 
 The couch stretch is a hip flexor mobility movement popularized by Kelly Starrett. Its a staple stretch in the pantheon of mobility work in *Becoming a Supple Leopard*

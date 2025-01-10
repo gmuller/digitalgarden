@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/run-in-a-variety-of-shoes/","created":"2024-03-05T20:32:44.000-05:00","updated":"2024-03-05T20:32:44.000-05:00"}
+{"dg-publish":true,"permalink":"/run-in-a-variety-of-shoes/","updated":"2024-03-05T20:32:44.000-05:00"}
 ---
 
 Run in many different shoes, with different types of cushioning and different drops. This is a [[Mithradizing Tactic\|Mithradizing Tactic]] to prevent the poison of one type of heel drop or cushioning from causing an overuse injury, and to allow you to train the fascia to bear the impact of different types of shoes in different ways. This will make you more adaptable as a runner.

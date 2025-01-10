@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"books","permalink":"/books/","created":"2024-04-14T18:35:22.000-04:00","updated":"2024-08-25T08:33:20.564-04:00"}
+{"dg-publish":true,"dg-permalink":"books","permalink":"/books/","updated":"2024-08-25T08:33:20.564-04:00"}
 ---
 
 ## Reading Now

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hamstring-band-lockouts/","created":"2024-03-05T20:40:07.000-05:00","updated":"2024-03-05T20:40:07.000-05:00"}
+{"dg-publish":true,"permalink":"/hamstring-band-lockouts/","updated":"2024-03-05T20:40:07.000-05:00"}
 ---
 
 

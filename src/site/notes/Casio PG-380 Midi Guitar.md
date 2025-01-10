@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"casio-pg-380-midi-guitar","permalink":"/casio-pg-380-midi-guitar/","title":"Casio PG-380 Midi Guitar","tags":["electronics","featured","gear"],"created":"2022-09-25T11:18:24.000-04:00","updated":"2024-09-15T18:26:17.356-04:00"}
+{"dg-publish":true,"dg-permalink":"casio-pg-380-midi-guitar","permalink":"/casio-pg-380-midi-guitar/","title":"Casio PG-380 Midi Guitar","tags":["electronics","featured","gear"],"created":"2010-01-21T14:26:01+00:00","updated":"2024-09-15T18:26:17.356-04:00"}
 ---
 
 Several months ago Jason asked me if I could fix a MIDI Guitar. I didn’t have the slightest idea how to fix one, and had only speculative knowledge about how they work, so naturally I said “yeah, sure, piece of cake”. If I’d have known at the time the kind of gear lust this project would create I might have turned him down at the outset.

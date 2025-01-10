@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"writing","permalink":"/writing/","created":"2024-03-23T18:51:51.000-04:00","updated":"2024-09-15T18:27:06.228-04:00"}
+{"dg-publish":true,"dg-permalink":"writing","permalink":"/writing/","created":"2022-04-05T22:27:10-04:00","updated":"2024-09-15T18:27:06.228-04:00"}
 ---
 
 # Essays

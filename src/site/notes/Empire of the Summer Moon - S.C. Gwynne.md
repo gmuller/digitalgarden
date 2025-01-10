@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/empire-of-the-summer-moon-s-c-gwynne/","created":"2024-08-14T20:51:54.335-04:00","updated":"2024-08-25T08:32:44.862-04:00"}
+{"dg-publish":true,"permalink":"/empire-of-the-summer-moon-s-c-gwynne/","updated":"2024-08-25T08:32:44.862-04:00"}
 ---
 
 I picked up Empire of the Summer Moon in the Western section of a local bookstore in Crested Butte. I can’t remember the name of the store but it was on the main drag attached to a coffee shop. The book was on display, gold lettering and the solemn face of a Comanche proud on the exposed cover. That is a thing that separates the physical experience of buying a book versus a digital experience. You remember the tactile parts of picking up the book off the shelf in the store, turning it over in your hands, and raising your eyebrows and nodding satisfactorily the binding. Your kids run up with their books and you nod satisfactorily at their choices. The lady behind the counter gives you and the kids a free bookmark. Its nice. None of that happens when you click download on your kindle. You may nod satisfactorily at your digital purchase, but you won't remember it.

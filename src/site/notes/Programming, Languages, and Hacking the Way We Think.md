@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"hacking-the-way-we-think","permalink":"/hacking-the-way-we-think/","title":"Programming, Languages, and Hacking the Way We Think","tags":["code"],"created":"2022-08-06T07:58:04.000-04:00","updated":"2022-08-06T07:58:04.000-04:00"}
+{"dg-publish":true,"dg-permalink":"hacking-the-way-we-think","permalink":"/hacking-the-way-we-think/","title":"Programming, Languages, and Hacking the Way We Think","tags":["code"],"created":"2011-08-19T12:00:25+00:00","updated":"2022-08-06T07:58:04.000-04:00"}
 ---
 
 # Programming, Languages, and Hacking the Way We Think

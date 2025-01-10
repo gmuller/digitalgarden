@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/weekly-minimum-running-distances/","created":"2024-03-05T20:35:03.000-05:00","updated":"2024-03-05T20:35:03.000-05:00"}
+{"dg-publish":true,"permalink":"/weekly-minimum-running-distances/","updated":"2024-03-05T20:35:03.000-05:00"}
 ---
 
 The following are some minimum running distance targets based on race distance:

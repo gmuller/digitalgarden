@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"music","permalink":"/music/","created":"2024-01-21T20:55:20.000-05:00","updated":"2024-08-27T16:20:41.000-04:00"}
+{"dg-publish":true,"dg-permalink":"music","permalink":"/music/","created":"2018-04-13T21:48:14-04:00","updated":"2024-08-27T16:20:41.000-04:00"}
 ---
 
 ## Solo

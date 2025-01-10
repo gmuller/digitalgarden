@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"now","permalink":"/now/","created":"2024-03-03T09:54:06.000-05:00","updated":"2024-08-25T08:29:01.185-04:00"}
+{"dg-publish":true,"dg-permalink":"now","permalink":"/now/","updated":"2024-08-25T08:29:01.185-04:00"}
 ---
 
 Still raising two kids with my wonderful wife in the metro Atlanta area. They're getting older, and so am I. 

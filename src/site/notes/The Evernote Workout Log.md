@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"the-evernote-workout-log","permalink":"/the-evernote-workout-log/","title":"The Evernote Workout Log","tags":["featured","tip","training"],"created":"2022-08-06T07:58:04.000-04:00","updated":"2022-08-06T07:58:04.000-04:00"}
+{"dg-publish":true,"dg-permalink":"the-evernote-workout-log","permalink":"/the-evernote-workout-log/","title":"The Evernote Workout Log","tags":["featured","tip","training"],"created":"2009-12-15T20:32:16+00:00","updated":"2022-08-06T07:58:04.000-04:00"}
 ---
 
 ![Evernote](/images/photo-3-e1286338779641.png)

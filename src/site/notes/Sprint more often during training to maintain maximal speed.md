@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sprint-more-often-during-training-to-maintain-maximal-speed/","created":"2024-03-05T20:35:21.000-05:00","updated":"2024-03-05T20:35:21.000-05:00"}
+{"dg-publish":true,"permalink":"/sprint-more-often-during-training-to-maintain-maximal-speed/","updated":"2024-03-05T20:35:21.000-05:00"}
 ---
 
 Different training modalities decline at different rates. Aerobic endurance and maximal strength has a longer residual effect than maximal speed. 

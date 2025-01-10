@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"the-rpm-challenge-and-the-power-of-constrained-creativity","permalink":"/the-rpm-challenge-and-the-power-of-constrained-creativity/","title":"The RPM Challenge and The Power of Constrained Creativity","created":"2022-09-24T09:27:56.000-04:00","updated":"2022-09-24T09:27:56.000-04:00"}
+{"dg-publish":true,"dg-permalink":"the-rpm-challenge-and-the-power-of-constrained-creativity","permalink":"/the-rpm-challenge-and-the-power-of-constrained-creativity/","title":"The RPM Challenge and The Power of Constrained Creativity","created":"2011-03-10T11:30:14+00:00","updated":"2022-09-24T09:27:56.000-04:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/web-index/","tags":["gardenEntry"],"dgHomeLink":"false","dgShowBacklinks":"false","dgEnableSearch":"false","created":"2024-03-05T21:07:37.000-05:00","updated":"2024-03-05T21:07:37.000-05:00"}
+{"dg-publish":true,"permalink":"/web-index/","tags":["gardenEntry"],"dgHomeLink":"false","dgShowBacklinks":"false","dgEnableSearch":"false","updated":"2024-03-05T21:07:37.000-05:00"}
 ---
 
 # grant lucas muller

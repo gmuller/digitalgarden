@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"antilibrary","permalink":"/antilibrary/","created":"2022-08-06T07:58:04.000-04:00","updated":"2022-08-06T07:58:04.000-04:00"}
+{"dg-publish":true,"dg-permalink":"antilibrary","permalink":"/antilibrary/","created":"2021-09-13T21:46:00-04:00","updated":"2022-08-06T07:58:04.000-04:00"}
 ---
 
 # Antilibrary

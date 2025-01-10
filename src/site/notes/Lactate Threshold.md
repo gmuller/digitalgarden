@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lactate-threshold/","created":"2024-03-05T20:33:01.000-05:00","updated":"2024-03-05T20:33:01.000-05:00"}
+{"dg-publish":true,"permalink":"/lactate-threshold/","updated":"2024-03-05T20:33:01.000-05:00"}
 ---
 
 You lactate threshold is the point at which the activity you're doing goes from sustainable to unsustainable, or when your fuel metabolism changes from aerobic to predominantly anaerobic. 

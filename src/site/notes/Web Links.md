@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/web-links/","created":"2024-03-25T14:25:28.000-04:00","updated":"2024-03-25T14:25:28.000-04:00"}
+{"dg-publish":true,"permalink":"/web-links/","updated":"2024-03-25T14:25:28.000-04:00"}
 ---
 
 ## Inspiration

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"trsmiditypes","permalink":"/trsmiditypes/","created":"2024-01-30T11:18:13.000-05:00","updated":"2024-08-18T10:40:16.023-04:00"}
+{"dg-publish":true,"dg-permalink":"trsmiditypes","permalink":"/trsmiditypes/","updated":"2024-08-18T10:40:16.023-04:00"}
 ---
 
 Historically Midi used a 5 pin cable, but only 3 of this pins were actually used. It occurred to someone that we can simply use a TRS plug, like the kind that any stereo cable would support, to transmit midi. 

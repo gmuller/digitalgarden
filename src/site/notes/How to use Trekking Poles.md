@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/how-to-use-trekking-poles/","created":"2024-03-05T20:37:49.000-05:00","updated":"2024-03-05T20:37:49.000-05:00"}
+{"dg-publish":true,"permalink":"/how-to-use-trekking-poles/","updated":"2024-03-05T20:37:49.000-05:00"}
 ---
 
 

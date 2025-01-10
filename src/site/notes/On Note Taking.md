@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/on-note-taking/","tags":["notes"],"created":"2022-09-25T21:30:49.000-04:00","updated":"2022-09-25T21:30:49.000-04:00"}
+{"dg-publish":true,"permalink":"/on-note-taking/","tags":["notes"],"created":"2022-01-28T13:24:20-05:00","updated":"2022-09-25T21:30:49.000-04:00"}
 ---
 
 # On Note Taking; Its Methods and Adherents

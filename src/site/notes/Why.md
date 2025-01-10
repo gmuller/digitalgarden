@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"why","permalink":"/why/","created":"2023-12-27T16:39:44.000-05:00","updated":"2023-12-27T16:39:44.000-05:00"}
+{"dg-publish":true,"dg-permalink":"why","permalink":"/why/","updated":"2023-12-27T16:39:44.000-05:00"}
 ---
 
 I

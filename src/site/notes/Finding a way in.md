@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"findingawayin","permalink":"/findingawayin/","created":"2022-08-06T07:58:04.000-04:00","updated":"2022-08-06T07:58:04.000-04:00"}
+{"dg-publish":true,"dg-permalink":"findingawayin","permalink":"/findingawayin/","created":"2022-06-09T21:46:30-04:00","updated":"2022-08-06T07:58:04.000-04:00"}
 ---
 
 # Finding a Way in

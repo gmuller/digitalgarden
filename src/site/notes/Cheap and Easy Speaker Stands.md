@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"cheap-and-easy-speaker-stands","permalink":"/cheap-and-easy-speaker-stands/","title":"Cheap and Easy Speaker Stands","created":"2022-08-06T07:58:04.000-04:00","updated":"2022-08-06T07:58:04.000-04:00"}
+{"dg-publish":true,"dg-permalink":"cheap-and-easy-speaker-stands","permalink":"/cheap-and-easy-speaker-stands/","title":"Cheap and Easy Speaker Stands","created":"2022-04-19T14:14:29-04:00","updated":"2022-08-06T07:58:04.000-04:00"}
 ---
 
 

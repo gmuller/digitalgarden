@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/everything-i-know-about-running/","created":"2024-03-05T21:08:30.000-05:00","updated":"2024-08-25T08:42:28.073-04:00"}
+{"dg-publish":true,"permalink":"/everything-i-know-about-running/","updated":"2024-08-25T08:42:28.073-04:00"}
 ---
 
 ## Getting Started

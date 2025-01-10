@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/disquiet-junto-0628-alchemical-brothers/","created":"2024-01-21T21:04:42.000-05:00","updated":"2024-01-21T21:04:42.000-05:00"}
+{"dg-publish":true,"permalink":"/disquiet-junto-0628-alchemical-brothers/","updated":"2024-01-21T21:04:42.000-05:00"}
 ---
 
 

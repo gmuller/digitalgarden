@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/minimal-shoes-do-not-reduce-impact-forces/","created":"2024-03-05T20:34:30.000-05:00","updated":"2024-03-05T20:34:30.000-05:00"}
+{"dg-publish":true,"permalink":"/minimal-shoes-do-not-reduce-impact-forces/","updated":"2024-03-05T20:34:30.000-05:00"}
 ---
 
 In the past, [studies](http://barefootrunning.fas.harvard.edu/Nature2010_FootStrikePatternsandCollisionForces.pdf) have shown that impact forces are higher with more cushioning in the shoe. Conversely, unshod runners were shown to have the lowest impact forces on the foot. 

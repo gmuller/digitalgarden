@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2023-books-in-review/","created":"2023-12-29T10:49:25.000-05:00","updated":"2023-12-29T10:49:25.000-05:00"}
+{"dg-publish":true,"permalink":"/2023-books-in-review/","updated":"2023-12-29T10:49:25.000-05:00"}
 ---
 
 I spend a lot of time on planes traveling for work, or on long haul runs where I occasionally need someone else's thoughts in my ears to keep me company. I read or listened to a lot of books this year, and when I made a list (inspired by Brett Bagley), I picked up on a few themes. Here is a thematic breakdown, in order of the impact they had on me:
