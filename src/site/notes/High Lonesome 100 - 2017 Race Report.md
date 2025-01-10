@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"high-lonesome-2017","permalink":"/high-lonesome-2017/","title":"High Lonesome 100: 2017","created":"2017-08-07T10:26:40+00:00","updated":"2025-01-10T17:38:17.736-05:00"}
+{"dg-publish":true,"dg-permalink":"high-lonesome-2017","permalink":"/high-lonesome-2017/","title":"High Lonesome 100: 2017","created":"2017-08-07T10:26:40+00:00","updated":"2025-01-10T17:49:01.508-05:00"}
 ---
 
 ![HighLonesome2017Logo.png](/img/user/assets/HighLonesome2017Logo.png)
@@ -18,7 +18,7 @@ Hundreds of people milled around in the dawn chill at the campground on Mt. Prin
 
 ![Dudes.png](/img/user/assets/Dudes.png)
 
-This was my first one hundred. Hundred-miler. Hundo. Finally hunting some big game. A few months prior I had no intention of being on the side of that mountain, but a [successful fifty-miler][3] seduced me to strike while the iron was hot. Besides, all my buddies would be there, and who doesn't like a little peer pressure. I got on the waiting list and within a few weeks I was committed.
+This was my first one hundred. Hundred-miler. Hundo. Finally hunting some big game. A few months prior I had no intention of being on the side of that mountain, but a [[Cruel Jewel 50 - 2017 Race Report\|successful fifty-miler]] seduced me to strike while the iron was hot. Besides, all my buddies would be there, and who doesn't like a little peer pressure. I got on the waiting list and within a few weeks I was committed.
 
 At 6:00 AM, to the crack of gunfire, we rushed out of the campground in a mass and expelled our nervous energy on a steep downhill road towards the Colorado Trail. After a few miles the paved road degraded into a wide, flat, dirt path. We clicked off several quick miles before the real hunt began.
 
@@ -88,7 +88,7 @@ It always devolves into profanity.
 
 The bears weren't the only things we were cursing. As the snow melts in the mountains of Colorado, rivulets of ice-cold water form and wheedle down the mountain. Sometimes they mind their business and gently cross the trail. Other times they get lazy and just _share_ the trail with you. I don't mind the occasional creek crossing, but after several miles of running in what can only be described as an "ankle deep kinda ice river", I was pleading for dry feet.
 
-Speaking of snow, during this leg of the course we encountered our first snowpack. What's snowpack? It's a big slab of melting, soggy, but still somehow slippery snow that sprawls across the trail like Jabba the Hut. Its too big to run up-mountain of, and if you slip and fall you're going to end up "down mountain" pretty quickly. In my first encounter I tried to gingerly [prancercise][8] my way across and ended up with one pole jammed into the downhill side of the trail, the other end under my rib in a feeble attempt to slow my roll. A few feet of butt-waddling and I was back on dirt trail, but it was a close one. On my second attempt at snowpack I didn't even try to stay on my feet; I unceremoniously plopped to my ass and slid until I was across.
+Speaking of snow, during this leg of the course we encountered our first snowpack. What's snowpack? It's a big slab of melting, soggy, but still somehow slippery snow that sprawls across the trail like Jabba the Hut. Its too big to run up-mountain of, and if you slip and fall you're going to end up "down mountain" pretty quickly. In my first encounter I tried to gingerly [prancercise](https://youtu.be/o-50GjySwew) my way across and ended up with one pole jammed into the downhill side of the trail, the other end under my rib in a feeble attempt to slow my roll. A few feet of butt-waddling and I was back on dirt trail, but it was a close one. On my second attempt at snowpack I didn't even try to stay on my feet; I unceremoniously plopped to my ass and slid until I was across.
 
 After several wet, steep, and muddy miles we arrived at Hancock, bear free. Mile 48.8. Halfway. Sort of.
 

@@ -1,9 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/cruel-jewel-50-2017-race-report/","title":"Cruel Jewel 50: 2017","created":"2017-05-22T16:54:41+00:00","updated":"2022-09-25T22:10:04.000-04:00"}
+{"dg-publish":true,"permalink":"/cruel-jewel-50-2017-race-report/","title":"Cruel Jewel 50: 2017","created":"2017-05-22T16:54:41+00:00","updated":"2025-01-10T17:47:23.162-05:00"}
 ---
 
-
-![Cruel Jewel][1]
 
 Before we get into this, I want to clear up a few things:
 
@@ -39,23 +37,15 @@ At Stanley Creek aid, almost 19 miles in I was craving nothing by ice cold coke.
 
 This segment of the race started fast and furious. The road is relatively flat, so if you're feeling fresh you can make up some time here. The sun was oppressive so I remained cautious, but packed in some quick miles here before the onslaught of the trail again after Old Dial Rd. Along the way I encountered a few 100 milers still doing the work, still getting after it. I walked with a woman from Canada who was looking a little sleepy. I donated my emergency caffeine gel to her, and we kept on until we hit the Toccoa river. It was too tempting to pass up; she got in and sat down for a while, and I dunked my hat and threw it back on. It lit us back up. I left her with another 100 mile competitor and headed up the trail. A few more miles of ups and downs to Old Dial Rd where my crew (wife) and friends were waiting.
 
-![image2][2]
-
 By the time I reached Old Dial people around me were starting to think I was high. I wore a permanent smile and did my best to spread my mood to anyone I encountered. Cary, Bill, and Nikki were waiting on our fellow runners there. I felt positively pampered. Bill and Cary helped me fill my pack. Cary had made me some miso ramen noodles on a camp stove, and even though I didn't feel like I needed to sit down, I gave myself 2-3 minutes to suck down some noodles and salty broth. The soup was hot, but really hit the spot and packed away another reserve of salt for me to draw on. Aaron, friend and 100 mile competitor wasn't too far ahead. He'd had some early struggles with nausea in the brutal heat but was pushing ever onwards. I wanted to catch up and spread some good energy. I grabbed another cup of coke before heading out up Garland, Brawley Mountain and Bald Top.
 
 A few miles in I encountered Aaron and Ivars. They were taking a rest when I came up on them, and I probably annoyed the hell out of them, but rest time was over and we got moving again. Hopefully it wasn't to their detriment. We were on one of the hardest sections of the BMT during one of the hottest parts of the day and I count it as a blessing that I encountered these guys when I did. We all slowed down and trudged up and down together, bantering about ultrarunning, youtube, past races, and what we were planning at the next aid station. There are few things in life better than shooting the shit with your friends on the trail. In no time we'd hit Wilscot Gap.
 
 At Wilscot we'd agreed to hide away in our crew's cars for a few minutes and spend some time in the AC. Rich Schick had suggested this strategy to me a few days ahead of the race, and it worked like a charm. 5 Minutes in the cool air, some ramen noodles and coke, and I was a new man. Caitlin, who'd spent the morning pacing fellow friends, was going to join on and march us over Wilscot to Skeenah Gap. A lot of runners stress over the effort ahead of them. Caitlin drinks a beer, shrugs, and says "Lets get on with it". I didn't drink a beer, but the attitude was inspiring so I took that with me along with the excessive runner's high I was experiencing as fuel for the effort to come. Aaron and Ivars got a little rest in the car as well, and after some changes to provisions were ready to head back out towards Skeenah Gap.
 
-![image3][3]
-
 The climb up Wilscot Mountain is rough. You're getting closer to the real deal on the Duncan Ridge Trail; this is really the last hurrah of the relatively pleasant BMT. We trudged on toward the top, taking almost no breaks. The heat was abating and I was sweating less. I started to reduce my salt intake and stuck mostly to Tailwind, protein drink and water. Around the top of Wilscot I looked at my watch. I'd been at this for almost 10 hours now, and I was about to reach the last pleasant aid station before the real work began. Extrapolating ahead to make the finish in fewer than 20 hours, I decided it was time to break away and make for Skeenah on the double. Coming down Wilscot I went for it, and hit Hwy 60 at Skeenah Gap at a full run where the whole crew was waiting.
 
-![image4][4]
-
 I got a lot of help from Cary at this aid station, the last time I'd see her before the finish. I refilled on protein drink one final time, topped off the rest of my fluids, grabbed a Snickers and slapped my headlamp on for the night. Dark clouds descended and the smell of turned over soil permeated the air. It was going to rain. I hadn't brought any rain gear; I figured if it did rain it was hot, so it wouldn't matter. I had neglected the cool mountain air, and didn't appreciate just how much rain we were going to get. It was looking ominous as I waved goodbye to my wife and friends at Skeenah up the long climb to the Duncan Ridge Trail and the finish.
-
-![image5][5]
 
 The climb out of Skeenah is notoriously steep. There are multiple false tops where you feel like running might be an option, but around every turn is another uphill march. It continues for several miles until you hit the Duncan Ridge trail, and make the left turn into the hills from hell. The race prior to this point was the warmup, and downright pleasant in comparison. It was time to get to work on the spine.
 
@@ -77,8 +67,6 @@ The sky opened up again during the descent into Wolf Creek. The going was so slo
 
 The trail had turned into a creek bed of ankle deep water. The last 4 mile section is plenty runnable in good conditions, but a barely hikeable swamp when wet. We slogged ever upward, getting quieter as I began to shiver. We both wanted this race to be over. We reached the road suddenly, and I knew the rest of the trail very well. We crossed down the stairs and into the park. I bid Ellen adieu in an effort to move quickly and get my body temperature up in the last 2 miles. I was at a dead run when I hit campsites at Vogel, and the rain was driving hard all around me. As much as I could sprint at the end of a 50 something mile race, I did. The horse had smelled the barn, and I was ready to cross the finish line and find a nice, hot fire. In the pouring rain, to a crowd of perhaps a dozen, I crossed the finish line and accepted my belt of victory. To an outsider, the end of an ultramarathon may seem anticlimactic, but for me its a reminder that the joy was in the running, not in the finishing.
 
-![image6][6]
-
 My race was over, but my day wasn't. I still had friends out there working their way toward the finish, and I wanted to be around to see them cross the line. After a quick bite to eat, I peeled my shoes and wet shirt off, hopped in the car to get to our hotel room for a quick shower, then headed back to the finish line. One by one friends new and old were rolling in. Wes survived his early injury and crossed with TJ with confidence. Mark managed to stay awake and crossed the line shortly afterwards. Matt had caught up to Aaron at White Oak stomp, and a few hours later they crossed the line together at a run towing a crowd of fellow combatants with their pacers. A highlight of the finish, Ivars appeared minutes behind Aaron, at a full sprint, decked out in a red cape he'd fashioned for himself from a red Georgia Bulldogs tablecloth he'd found at the aid station. Ivars had fallen asleep for a spell and when he woke, was completely re-energized, if a bit cold. He'd solved his hypothermia problem ingeniously and hilariously. It was inspiring to watch these guys and gals fight their personal struggles out there and overcome them all to finish, come hell or high water (and we had both).
 
 After the requisite post-race elation, we congratulated each other on a job well done, and planned our next battles. As drowsiness started to set in, we said our goodbyes, satisfied with the weekend's work.
@@ -86,10 +74,3 @@ After the requisite post-race elation, we congratulated each other on a job well
 People seem to think running is a solitary. Absolutely not. You have the support of the good people who volunteered their weekend to work at aid stations, make you grilled cheese sandwiches, and teach you what a Pickleback cocktail is. You have the folks who spent the days prior to the race marking trails so you don't get lost out there. Many of us have crews and friends out there to give us aid and to keep an eye on us. You have your fellow runners out there on race day, reminding you that this is only 10% race, 90% community. You have your training buddies, keeping you honest and making sure you get out of bed for the long hauls in the months prior to the race. You are literally surrounded by friends and supporters the entire time.
 
 I'd like to thank the Race Directors for putting on a hell of a good show. But most of all I'd like to thank my wife, who tolerates many long hours of training, and sacrifices weekends to come out and support me whenever she can. In the days leading up to the race and for the duration of the struggle, nobody helped me more than she did. I'm lucky to have her by my side.
-
- [1]: /images/DSCF0078.jpg
- [2]: /images/AtOldDial-1.jpg
- [3]: /images/IntoTheWoods-e1495470995557.jpg
- [4]: /images/EmergingAtSkeenah-2.jpg
- [5]: /images/BackOutFromSkeenah.jpg
- [6]: /images/Survived-e1495471130410.jpg
