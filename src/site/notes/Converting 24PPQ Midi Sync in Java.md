@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/converting-24-ppq-midi-sync-in-java/","title":"Converting 24PPQ Midi Sync in Java/Processing","tags":["code","java","music","processing"],"created":"2009-05-11T03:20:11+00:00","updated":"2025-01-24T20:00:42.520-05:00"}
+{"dg-publish":true,"permalink":"/converting-24-ppq-midi-sync-in-java/","title":"Converting 24PPQ Midi Sync in Java/Processing","tags":["code","java","music","processing"],"created":"2009-05-11T03:20:11+00:00","updated":"2025-01-24T20:03:31.770-05:00"}
 ---
 
 ![MIDILogo.png](/img/user/assets/MIDILogo.png)
@@ -32,4 +32,4 @@ Frustrated, I did what I always do in these situations and went to sleep. It was
 
 In order to find out exactly what that threshold was, I ran a sleep test directly on the MidiInput class. I determined what my sleep time was using the same formula from above, and slept the **entire** midiInput thread for the determined amount. My assumption regarding this was that my sleep times would be less than the speed that any quantized midi message could possibly arrive, so sleeping would be safe, especially if the midiInput would only be used for sync messages. As I increased the tempo, I found that the threshold was around 5 milliseconds, after that you couldn't sleep the thread for a short enough period of time to meet the 64th note requirement. Once this 5 millisecond threshold is surpassed, the thread doesn't bother sleeping before sending the extra pulses, it just blasts them on to the receiver of the messages. I also discovered that this method of sleeping the thread was working just fine, and there was no reason to implement another method.
 
-A few tests and mistakes on my part later and Keston was up and running with synced 64th notes on the GMS. Keep an eye on his space to watch his progress. The next release of GOL Sequencer will also include 64th (and possibly 128th note) capability
+A few tests and mistakes on my part later and Keston was up and running with synced 64th notes on the GMS. Keep an eye on his space to watch his progress. The next release of GOL Sequencer will also include 64th (and possibly 128th note) capability.
