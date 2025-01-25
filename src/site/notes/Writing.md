@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"writing","permalink":"/writing/","created":"2022-04-05T22:27:10-04:00","updated":"2025-01-25T18:10:24.471-05:00"}
+{"dg-publish":true,"dg-permalink":"writing","permalink":"/writing/","created":"2022-04-05T22:27:10-04:00","updated":"2025-01-25T18:29:31.378-05:00"}
 ---
 
 # Essays
@@ -25,7 +25,7 @@
 - [[200 Miles, 8 Runners, 31 Hours\|200 Miles, 8 Runners, 31 Hours]]
 
 # How To
-- [[The Evernote Workout Log\|The Evernote Workout Log]]
+- [[Evernote Workout Log\|Evernote Workout Log]]
 - [[Coffee Sack Sound Baffles\|Coffee Sack Sound Baffles]]
 - [[Cheap and Easy Speaker Stands\|Cheap and Easy Speaker Stands]]
 - [[Casio MG-510 Midi Guitar\|Casio MG-510 Midi Guitar]]
