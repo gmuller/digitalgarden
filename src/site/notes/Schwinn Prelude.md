@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"schwinn-prelude","permalink":"/schwinn-prelude/","created":"2009-06-03T12:00:55+00:00","updated":"2025-01-24T19:41:32.673-05:00"}
+{"dg-publish":true,"dg-permalink":"schwinn-prelude","permalink":"/schwinn-prelude/","created":"2009-06-03T12:00:55+00:00","updated":"2025-01-24T19:48:22.498-05:00"}
 ---
 
 We turned this:
@@ -133,3 +133,27 @@ The striped handlebar tape was a nice touch:
 So what’s next? I might replace the seat with an old Selle Itialia Flite saddle if I can find one, but other than that, we’re pretty much done here. 
 
 Anyone have a $20 steel bike they want to sell me so I can do this again?
+
+## Post-Script
+
+8/21/2011
+After a leisurely lunch on the Marietta Square yesterday, I came across this:
+
+![AnotherSchwinn.png](/img/user/assets/AnotherSchwinn.png)
+
+**Another Schwinn Prelude!**
+
+It seems I’m not the only one who was unimpressed with the original rusted gunmetal gray look.
+The owner of this Prelude painted theirs similarly to mine: A base coat of cream with an accent color for the lugs and forks. Observe:
+
+![AnotherSchwinnDetail.png](/img/user/assets/AnotherSchwinnDetail.png)
+
+This Prelude owner went with green, no doubt as an accent to the sexy leather Brooks seat and handlebar tape. I also like the fork paint:
+
+![SchwinnFork.png](/img/user/assets/SchwinnFork.png)
+
+No detail was left:
+
+![AnotherSchwinnDetail2.png](/img/user/assets/AnotherSchwinnDetail2.png)
+
+All in all a very impressive redux!
