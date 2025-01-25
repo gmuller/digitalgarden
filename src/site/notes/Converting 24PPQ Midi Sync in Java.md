@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/converting-24-ppq-midi-sync-in-java/","title":"Converting 24PPQ Midi Sync in Java/Processing","tags":["code","java","music","processing"],"created":"2009-05-11T03:20:11+00:00","updated":"2025-01-24T20:03:31.770-05:00"}
+{"dg-publish":true,"dg-permalink":"converting24ppqmidi","permalink":"/converting24ppqmidi/","title":"Converting 24PPQ Midi Sync in Java/Processing","tags":["code","java","music","processing"],"created":"2009-05-11T03:20:11+00:00","updated":"2025-01-25T17:52:55.234-05:00"}
 ---
 
 ![MIDILogo.png](/img/user/assets/MIDILogo.png)

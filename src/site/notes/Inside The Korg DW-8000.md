@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/inside-the-korg-dw-8000/","title":"Inside The Korg DW-8000","tags":["electronics","gear"],"created":"2009-11-18T16:40:33+00:00","updated":"2025-01-24T20:18:43.658-05:00"}
+{"dg-publish":true,"dg-permalink":"korgps1teardown","permalink":"/korgps1teardown/","title":"Inside The Korg DW-8000","tags":["electronics","gear"],"created":"2009-11-18T16:40:33+00:00","updated":"2025-01-25T17:52:39.194-05:00"}
 ---
 
 
 ![DustyKorgDW-8000.png](/img/user/assets/DustyKorgDW-8000.png)
-Recently a friend asked how hard it was to replace the CMOS battery in [Korg DW-8000](http://www.vintagesynth.com/korg/dw8000.php) keyboard. I assumed it couldn’t be that hard, looked up what kind of battery it accepted (CR2032) and said “yeah, 5 minute job”. I failed to take into account early 80s circuit construction. Sure, its no [[Maestro PS-1B Teardown\|Maestro PS-1B Teardown]], but I certainly discovered some “opportunities” upon cracking open the case…
+Recently a friend asked how hard it was to replace the CMOS battery in [Korg DW-8000](http://www.vintagesynth.com/korg/dw8000.php) keyboard. I assumed it couldn’t be that hard, looked up what kind of battery it accepted (CR2032) and said “yeah, 5 minute job”. I failed to take into account early 80s circuit construction. Sure, its no [[Maestro PS-1B Teardown\|Maestro PS-1B Teardown]]x, but I certainly discovered some “opportunities” upon cracking open the case…
 
 Getting it open is easy enough. As with any device built before the iPod age there are far too many screws… 2 in each corner, several straight up the middle, a bunch to hold the rather flimsy keyboard tray in place. etc. NOTE: To open this thing, you need to turn it upside down, make sure you support the bottom right corner so the joystick doesn’t get smashed.
 

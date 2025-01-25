@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drawing-a-hexagon-in-processing/","title":"Drawing a Hexagon in Processing / Java","tags":["code","java","processing"],"created":"2009-02-04T15:56:44+00:00","updated":"2025-01-24T19:57:29.275-05:00"}
+{"dg-publish":true,"dg-permalink":"drawinghexagonsinprocessing","permalink":"/drawinghexagonsinprocessing/","title":"Drawing a Hexagon in Processing / Java","tags":["code","java","processing"],"created":"2009-02-04T15:56:44+00:00","updated":"2025-01-25T17:53:09.464-05:00"}
 ---
 
 
