@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/schwinn-prelude/","updated":"2025-01-24T19:19:14.468-05:00"}
+{"dg-publish":true,"permalink":"/schwinn-prelude/","updated":"2025-01-24T19:31:09.204-05:00"}
 ---
 
 ![OldSchwinnFrame.png](/img/user/assets/OldSchwinnFrame.png)
@@ -69,3 +69,35 @@ After a couple hours when the paint had dried, we peeled back the tape…**Behol
 
 It looked great! The little filled in spot on the lugs near the top is the clay Rick used in that divot. The system works. Cary is currently taping off the lugs on the main frame of the bike, which will take her much longer. Thanks wife.
 
+After a few weeks,  I finally moved on to the last of the painting. In the previous post we painted the frame in its entirety with a primer and the cream colored base coat. We did a test with the red paint for the lugs and details on the fork, and it looked excellent, so we continued using the same process on the rest of the frame.
+
+Cary spent a week’s worth of evening taping off the frame, afterwards I realized that selecting cream instead of “blue-painters tape” for the base coat was a good idea. We hung the frame up in the paint room and went to work on it with the small Iwata airbrush. Maneuvering around the fork was a bit easier than the whole frame, but overall things went smoothly.
+
+![Painting.png](/img/user/assets/Painting.png)
+
+I’m not fantastic with the airbrush yet, so Rick had to clean-up for me from time to time:
+
+![RickPainting.png](/img/user/assets/RickPainting.png)
+
+Some of the details work was delicate, but with Cary’s knock up job taping everything off, I could pretty much apply my usual brand of recklessness without being too worried I’d screw it up. Here’s how it looked all taped up with paint attached:
+
+![AllPaintined.png](/img/user/assets/AllPaintined.png)
+
+Cary referred to it as the Superman bike until the tape came off.
+
+With all the painting done its time to move on to puttin’ fancy stickers on the bike. Here is a shot:
+
+![PaintedFrame2.png](/img/user/assets/PaintedFrame2.png)
+
+Looking pretty slick. I ordered two sets of decals for the bike from eBay. If you do a search for whatever bike brand and decals you’ll come up with hundreds. In retrospect I should have looked for Roll-Royce decals, hindsight is often hilarious. I kept it real though, and ordered a set of Schwinn feathers and a set of Schwinn Black Phantoms. The Prelude (what the bike formerly was) came with some pretty 80’s decals, replete with scan lines and big bold beautiful Helvetica, so even if I could find some of replicas of them, I would have gone another direction. I ended up not liking the Phantoms. They were a little big and not as elegant as the the feathers. But, the Phantoms did come with a nice red and gold Schwinn badge, which I ended up using.
+
+![PaintwithDecal.png](/img/user/assets/PaintwithDecal.png)
+
+Putting decals on is pretty easy. Cut them up into sizes that are manageable, soak in lukewarm water for about 30 seconds or so, then set them into the area you want them on the surface. Oh yeah, clean the surface first. Once you get them where you want them, peel back the backing layer while holding the clear decal layer, making sure that the decal stays where you want it. This being detail work (which I’m miserable at) I just let Rick take care of the three decals.
+
+![Decals.png](/img/user/assets/Decals.png)
+
+It looks a bit, or exactly, like this with all the decals on:
+
+![AllStickeredUp.png](/img/user/assets/AllStickeredUp.png)
+Next, slap a clear coat or two for protection (and of course to cover up some blemishes), then put it all back together and get it on the street.
