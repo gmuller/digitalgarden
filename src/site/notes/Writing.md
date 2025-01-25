@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"writing","permalink":"/writing/","created":"2022-04-05T22:27:10-04:00","updated":"2025-01-24T20:01:04.979-05:00"}
+{"dg-publish":true,"dg-permalink":"writing","permalink":"/writing/","created":"2024-03-23T18:51:51.000-04:00","updated":"2025-01-24T20:19:32.282-05:00"}
 ---
 
 # Essays
@@ -31,3 +31,5 @@
 - [[Casio PG-380 Midi Guitar\|Casio PG-380 Midi Guitar]]
 - [[Drawing a Hexagon in Processing\|Drawing a Hexagon in Processing]]
 - [[Converting 24PPQ Midi Sync in Java\|Converting 24PPQ Midi Sync in Java]]
+- [[Inside The Korg DW-8000\|Inside The Korg DW-8000]]
+- [[Maestro PS-1B Teardown\|Maestro PS-1B Teardown]]
