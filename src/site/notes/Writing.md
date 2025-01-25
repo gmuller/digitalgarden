@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"writing","permalink":"/writing/","created":"2022-04-05T22:27:10-04:00","updated":"2024-09-15T18:27:06.228-04:00"}
+{"dg-publish":true,"dg-permalink":"writing","permalink":"/writing/","created":"2022-04-05T22:27:10-04:00","updated":"2025-01-24T19:56:58.816-05:00"}
 ---
 
 # Essays
@@ -29,3 +29,4 @@
 - [[Cheap and Easy Speaker Stands\|Cheap and Easy Speaker Stands]]
 - [[Casio MG-510 Midi Guitar\|Casio MG-510 Midi Guitar]]
 - [[Casio PG-380 Midi Guitar\|Casio PG-380 Midi Guitar]]
+- [[Drawing a Hexagon in Processing\|Drawing a Hexagon in Processing]]
