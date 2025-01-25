@@ -1,8 +1,14 @@
 ---
-{"dg-publish":true,"dg-permalink":"schwinn-prelude","permalink":"/schwinn-prelude/","created":"2009-06-03T12:00:55+00:00","updated":"2025-01-24T19:39:08.022-05:00"}
+{"dg-publish":true,"dg-permalink":"schwinn-prelude","permalink":"/schwinn-prelude/","created":"2009-06-03T12:00:55+00:00","updated":"2025-01-24T19:39:56.154-05:00"}
 ---
 
+We turned this:
+
 ![OldSchwinnFrame.png](/img/user/assets/OldSchwinnFrame.png)
+
+into this:
+
+![BikeDone.png](/img/user/assets/BikeDone.png)
 
 Cycling might be the perfect sport for an engineer. The mechanics of a bicycle are beautifully simple, and the gear porn aspect of owning and operating a performance machine may be paramount to the health benefits of actually riding. Data is key as a cyclist as well. Altitudes, cadences, heart rates and watts determine my performance on a ride. I can criticize or praise myself in a quantifiable way, and I have my bicycle to thank for much of it. As much as I like the act of cycling, I still think my main interest in the sport is the device itself rather than the ride.
 
