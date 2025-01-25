@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"writing","permalink":"/writing/","created":"2022-04-05T22:27:10-04:00","updated":"2025-01-24T20:19:32.282-05:00"}
+{"dg-publish":true,"dg-permalink":"writing","permalink":"/writing/","created":"2022-04-05T22:27:10-04:00","updated":"2025-01-25T18:10:24.471-05:00"}
 ---
 
 # Essays
@@ -9,9 +9,10 @@
 - [[As Good As You Are Right Now\|As Good As You Are Right Now]]
 - [[Remember to have fun out there\|Remember to have fun out there]]
 - [[We should share more\|We should share more]]
-- [[Meaning In Repetition\|Meaning In Repetition]]
-- [[Programming, Languages, and Hacking the Way We Think\|Programming, Languages, and Hacking the Way We Think]]
-- [[The RPM Challenge and The Power of Constrained Creativity\|The RPM Challenge and The Power of Constrained Creativity]]
+- [[Meaning In Repetition\|Meaning In Repetition]] (2019)
+- [[Programming, Languages, and Hacking the Way We Think\|Programming, Languages, and Hacking the Way We Think]] (2011)
+- [[The RPM Challenge and The Power of Constrained Creativity\|The RPM Challenge and The Power of Constrained Creativity]] (2011)
+- [[Adventures in Social Coding\|Adventures in Social Coding]] (2011)
 
 # Short Posts
 - [[To Run Easy or Hard\|To Run Easy or Hard]]
