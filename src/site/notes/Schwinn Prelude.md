@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"schwinn-prelude","permalink":"/schwinn-prelude/","created":"2009-06-03T12:00:55+00:00","updated":"2025-01-24T19:39:56.154-05:00"}
+{"dg-publish":true,"dg-permalink":"schwinn-prelude","permalink":"/schwinn-prelude/","created":"2009-06-03T12:00:55+00:00","updated":"2025-01-24T19:41:32.673-05:00"}
 ---
 
 We turned this:
@@ -110,7 +110,7 @@ Next, slap a clear coat or two for protection (and of course to cover up some bl
 
 Clearcoating is really to hide and protect. It masks any blemishes that might be left on the bike, and protects the coats of paint you slapped on previously from rust, nicks, and other marring. It serves a third purpose of course; it makes everything “pop”. The red on against cream look was already a nice contrast, but with the clearcoat applied the red really went from bright to ostentatious…in a good way.
 
-I don’t have any pictures of it to describe it, but the chemicals involved in this process are a bit more noxious than anything else we’ve used in this project. Respirators were a must, and the manual was consulted to get the **exact**chemical composition nailed down. Rick was extra-extra careful on this one:
+I don’t have any pictures of it to describe it, but the chemicals involved in this process are a bit more noxious than anything else we’ve used in this project. Respirators were a must, and the manual was consulted to get the **exact** chemical composition nailed down. Rick was extra-extra careful on this one:
 
 ![ConsultingTheManual.png](/img/user/assets/ConsultingTheManual.png)
 
