@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/schwinn-prelude/","updated":"2025-01-24T19:16:57.439-05:00"}
+{"dg-publish":true,"permalink":"/schwinn-prelude/","updated":"2025-01-24T19:19:14.468-05:00"}
 ---
 
 ![OldSchwinnFrame.png](/img/user/assets/OldSchwinnFrame.png)
@@ -57,3 +57,15 @@ As you can see most of the pitting around the top tube no longer shows:
 ![PaintedDetail.png](/img/user/assets/PaintedDetail.png)
 
 We pined for a few days about how to do the detail work. Since the lugs, drop outs, bottom bracket, etc were all going to be painted red,we needed a way of getting the paint on there without ruining the base coat. There are at least a half dozen ways to do it, with a brush and a lot of patience perhaps. In the end we elected to have Cary (my wife) tape off the sections we were going to paint with plain ol’ painters tape, and attack it with this small scale airbrush, also from Iwata:
+
+![AirbrushGun.png](/img/user/assets/AirbrushGun.png)
+
+Cary is an expert paint taper, not to mention painter. She warned us about things like leakage, less-than-perfect-lines, but agreed to do it anyway. We elected to use the fork for the first test, so Cary taped the lugs and drop outs and we set to work. There is a small detail _inside_ the lugs on the fork which Cary couldn’t get any tape into, but in a moment of last minute genius, Rick crammed a wad of clay into the detail to block paint from entering. Very nice. We mixed up a very brilliant vermillion paint mixture and hoped for the best.
+
+After a couple hours when the paint had dried, we peeled back the tape…**Behold!**:
+
+![PaintedDetail2.png](/img/user/assets/PaintedDetail2.png)
+![PaintedDetail3.png](/img/user/assets/PaintedDetail3.png)
+
+It looked great! The little filled in spot on the lugs near the top is the clay Rick used in that divot. The system works. Cary is currently taping off the lugs on the main frame of the bike, which will take her much longer. Thanks wife.
+
