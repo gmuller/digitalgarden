@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"projects","permalink":"/projects/","updated":"2023-12-29T17:26:12.000-05:00"}
+{"dg-publish":true,"dg-permalink":"projects","permalink":"/projects/","updated":"2025-01-24T19:13:46.641-05:00"}
 ---
 
 ## Old Software Projects 
@@ -8,5 +8,5 @@
 - [TodoCL](https://github.com/gmuller/todo-cl)
 
 ## Random
-- Schwinn Prelude Redux - I restored an old steel bike with my father-in-law and wrote a series of posts about it many years ago. I intend to restore those posts at some point. 
+- [[Schwinn Prelude\|Schwinn Prelude]] - A Bike Restoration
 
