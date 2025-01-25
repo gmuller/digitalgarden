@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"adventuresinsocialcoding","permalink":"/adventuresinsocialcoding/","tags":["code","java","processing"],"created":"2011-02-18T16:42:56+00:00","updated":"2025-01-25T18:15:45.099-05:00"}
+{"dg-publish":true,"dg-permalink":"adventuresinsocialcoding","permalink":"/adventuresinsocialcoding/","tags":["code","java","processing"],"created":"2011-02-18T16:42:56+00:00","updated":"2025-01-25T18:18:04.125-05:00"}
 ---
 
 Many moons ago, I created a little tool called the [GOL Sequencer Bank][1]. In order to create the tool, I used [RWMidi](https://github.com/wesen/rwmidi), a Java/Processing library created by Manuel Odendahl of [Ruin&Wesen][5]. While creating the sequencer bank, I discovered that the RWMidi library had no support for MIDI Sync messages, preventing me from syncing the sequencer with a master, like Ableton Live. This simply would not do.

@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"dg-permalink":"meaninginrepetition","permalink":"/meaninginrepetition/","created":"2019-09-10T08:01:24-05:00","updated":"2022-09-25T21:25:22.000-04:00"}
+{"dg-publish":true,"dg-permalink":"meaninginrepetition","permalink":"/meaninginrepetition/","created":"2019-09-10T08:01:24-05:00","updated":"2025-01-25T18:17:19.567-05:00"}
 ---
 
-# Meaning In Repetition
 
 Much of the time, life seems kind of meaningless. The day by day, hour by hour routines flow by in a trickle of disconnected minutiae. The trickle coalesces into the streams of our days, rivers of years, and if we’re lucky out into that ocean of a lifetime. Occasionally a storm unleashes a torrent of grief and fatigue. But just as often the sun comes out and we stop noticing the drip drip dripping of our passing minutes. As we age the flotsam and jetsam floating along forms patterns. We repeat ourselves, or the universe does. Christmas, birthdays, Halloween, debris we see again and again in the stream of time whether we choose to or not.
 
