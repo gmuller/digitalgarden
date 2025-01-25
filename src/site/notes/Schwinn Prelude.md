@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/schwinn-prelude/","updated":"2025-01-24T19:31:09.204-05:00"}
+{"dg-publish":true,"dg-permalink":"schwinn-prelude","permalink":"/schwinn-prelude/","created":"2009-06-03T12:00:55+00:00","updated":"2025-01-24T19:39:08.022-05:00"}
 ---
 
 ![OldSchwinnFrame.png](/img/user/assets/OldSchwinnFrame.png)
@@ -101,3 +101,29 @@ It looks a bit, or exactly, like this with all the decals on:
 
 ![AllStickeredUp.png](/img/user/assets/AllStickeredUp.png)
 Next, slap a clear coat or two for protection (and of course to cover up some blemishes), then put it all back together and get it on the street.
+
+Clearcoating is really to hide and protect. It masks any blemishes that might be left on the bike, and protects the coats of paint you slapped on previously from rust, nicks, and other marring. It serves a third purpose of course; it makes everything “pop”. The red on against cream look was already a nice contrast, but with the clearcoat applied the red really went from bright to ostentatious…in a good way.
+
+I don’t have any pictures of it to describe it, but the chemicals involved in this process are a bit more noxious than anything else we’ve used in this project. Respirators were a must, and the manual was consulted to get the **exact**chemical composition nailed down. Rick was extra-extra careful on this one:
+
+![ConsultingTheManual.png](/img/user/assets/ConsultingTheManual.png)
+
+The clearcoating itself went on in 3 stages, all applied with the same airbrushes we’ve been using thus far. First a “dust coat” was applied, to fill any gaps and lay down a rough surface for the rest of the coats to stick to. Next a thick layer of clear was laid on. Finally, we wrapped it all up with some touch-ups and gap filling to complete the job
+
+The results are excellent. I don’t think I expected the bike to transition from nice to sexy quite as much as it did. You heard me. Sexy. See the photos.
+
+![SexyBike.png](/img/user/assets/SexyBike.png)
+
+![SexyBike2.png](/img/user/assets/SexyBike2.png)![SexyBike3.png](/img/user/assets/SexyBike3.png)
+
+After that all the cabling went back on, a seat, some wheels and tires, handlebar tape etc:
+
+![BikeDone.png](/img/user/assets/BikeDone.png)
+
+The striped handlebar tape was a nice touch:
+
+![HandleBars.png](/img/user/assets/HandleBars.png)
+
+So what’s next? I might replace the seat with an old Selle Itialia Flite saddle if I can find one, but other than that, we’re pretty much done here. 
+
+Anyone have a $20 steel bike they want to sell me so I can do this again?
