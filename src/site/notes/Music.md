@@ -1,10 +1,12 @@
 ---
-{"dg-publish":true,"dg-permalink":"music","permalink":"/music/","created":"2018-04-13T21:48:14-04:00","updated":"2025-08-18T17:31:03.363-04:00"}
+{"dg-publish":true,"dg-permalink":"music","permalink":"/music/","created":"2018-04-13T21:48:14-04:00","updated":"2025-08-18T17:38:01.229-04:00"}
 ---
 
 ## try catch 23
 
 ### [broke ass func](https://ffm.to/brokeassfunc?fbclid=IwY2xjawMQeoRleHRuA2FlbQIxMQABHtQHC8SdYXlRo48CABFn5Mn_qrXu4N_mkAyPnGw-G4Y8hpEu6S6QffTmvPQY_aem_weIT7v5xgFBc14Udyd9ong)
+or listen on bandcamp
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=529399509/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://trycatch23.bandcamp.com/track/broke-ass-func">broke ass func by try catch 23</a></iframe>
 
 ## Solo
 ### [Tidal Progressions](https://soundcloud.com/tidal-progressions?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) 2015
