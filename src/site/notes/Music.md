@@ -1,6 +1,10 @@
 ---
-{"dg-publish":true,"dg-permalink":"music","permalink":"/music/","created":"2018-04-13T21:48:14-04:00","updated":"2024-08-27T16:20:41.000-04:00"}
+{"dg-publish":true,"dg-permalink":"music","permalink":"/music/","created":"2018-04-13T21:48:14-04:00","updated":"2025-08-18T17:31:03.363-04:00"}
 ---
+
+## try catch 23
+
+### [broke ass func](https://ffm.to/brokeassfunc?fbclid=IwY2xjawMQeoRleHRuA2FlbQIxMQABHtQHC8SdYXlRo48CABFn5Mn_qrXu4N_mkAyPnGw-G4Y8hpEu6S6QffTmvPQY_aem_weIT7v5xgFBc14Udyd9ong)
 
 ## Solo
 ### [Tidal Progressions](https://soundcloud.com/tidal-progressions?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) 2015
